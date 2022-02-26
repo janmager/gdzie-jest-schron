@@ -6,7 +6,7 @@ import Faq from './pages/Faq/Faq'
 import Map from './pages/Map/Map'
 import Footer from './components/Footer/Footer'
 
-import { Container, Row } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 import { Route, Switch } from 'react-router-dom'
 
 function App() {
