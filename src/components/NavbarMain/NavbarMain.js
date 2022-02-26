@@ -17,7 +17,8 @@ export default function NavbarMain() {
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0">
             <Nav.Link as={NavLink} to='/' exact>Start</Nav.Link>
-            <Nav.Link as={NavLink} to='/map' exact>Mapa</Nav.Link>
+            <Nav.Link as={NavLink} to='/map'>Mapa</Nav.Link>
+            <Nav.Link as={NavLink} to='/list'>Lista schronów</Nav.Link>
             <Nav.Link as={NavLink} to='/faq'>FAQ</Nav.Link>
           </Nav>
           <Form className="d-flex">

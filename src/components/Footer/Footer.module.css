@@ -16,6 +16,10 @@
     color: inherit; 
 }
 
+.footerLeft a:last-of-type{
+    margin-right: 0px;
+}
+
 .footerLeft span:first-of-type::before{
     display: none;
 }
