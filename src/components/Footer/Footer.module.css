@@ -1,0 +1,42 @@
+.footerLeft{
+    text-align: left;
+}
+
+.footerLeft a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: inherit;
+    opacity: .7;
+    transition: .25s;
+}
+
+.footerLeft a:hover{
+    transition: .25s;
+    opacity: 1;
+}
+
+.footerLeft span:before{
+    content: "·";
+    margin-left: 20px;
+    pointer-events: none;
+    opacity: .7;
+}
+
+.footerLeft span:first-of-type::before{
+    display: none;
+}
+
+.footerRight{
+    text-align: right;
+    opacity: 0.7;
+}
+
+@media only screen and (max-width: 575px) {
+    .footerLeft, .footerRight{
+        text-align: center;
+    }
+    .footerLeft{
+        margin-bottom: 10px;
+    }
+}
+
