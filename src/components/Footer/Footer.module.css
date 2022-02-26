@@ -3,23 +3,17 @@
 }
 
 .footerLeft a{
-    margin-left: 20px;
+    margin-right: 30px;
     text-decoration: none;
     color: inherit;
-    opacity: .7;
+    opacity: .5;
     transition: .25s;
 }
 
 .footerLeft a:hover{
     transition: .25s;
-    opacity: 1;
-}
-
-.footerLeft span:before{
-    content: "·";
-    margin-left: 20px;
-    pointer-events: none;
-    opacity: .7;
+    opacity: .9;
+    color: inherit; 
 }
 
 .footerLeft span:first-of-type::before{
@@ -28,7 +22,7 @@
 
 .footerRight{
     text-align: right;
-    opacity: 0.7;
+    opacity: 0.5;
 }
 
 @media only screen and (max-width: 575px) {

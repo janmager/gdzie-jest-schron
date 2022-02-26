@@ -2,9 +2,10 @@ import React from 'react'
 
 import { Container, Row, Col } from 'react-bootstrap'
 
-import { Link } from 'react-router-dom'
-
 import style from './Footer.module.css'
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebookF, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons'
 
 export default function Footer() {
 
@@ -20,9 +21,15 @@ export default function Footer() {
             <Container>
                 <Row>
                     <Col xs={12} sm={6} className={style.footerLeft}>
-                        <span><Link to="/">Start</Link></span>
-                        <span><Link to="/map">Mapa</Link></span>
-                        <span><Link to="/faq">FAQ</Link></span>
+                        <a href="#">
+                            <FontAwesomeIcon icon={faFacebookF} />
+                        </a>
+                        <a href="#">
+                            <FontAwesomeIcon icon={faInstagram} />
+                        </a>
+                        <a href="#">
+                            <FontAwesomeIcon icon={faTwitter} />
+                        </a>
                     </Col>
                     <Col xs={12} sm={6} className={style.footerRight}>2022 &copy; gdziejestschron.pl</Col>
                 </Row>
