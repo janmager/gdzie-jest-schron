@@ -47,7 +47,7 @@ export default function Map() {
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
                 </MapContainer>
-                Liczba schronów w bazie danych: {shelters.length}
+                <span className="mt-3">Liczba schronów w bazie danych: {shelters.length}</span>
             </Col>
         </Row>
     )
