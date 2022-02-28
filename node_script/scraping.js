@@ -1,47 +1,77 @@
 let fs = require('fs');
+const axios = require('axios');
+
+const key = 'b1c1a8bf18428fbb724beccdbc7d8075'
 
 let shelters = {
-    "sheltersPoznan" : []
+    sheltersPoznan : []
 }
-
-const allFileContent = fs.readFileSync('./schrony.txt', 'utf-8');
 
 let tempShelter = {}
 let id = 1
 
-allFileContent.split(/\r?\n/).forEach(line =>  {
-    if(line.startsWith('schron')){
-        tempShelter = {}
-        let tempAddress = ''
-        let tempCountPerson = 0
-        tempAddress = line.substring(line.indexOf('schron')+7, line.indexOf('pomieści')-2);
-        tempCountPerson = line.substring(line.indexOf('osób')+6)
-        tempShelter = {
-            id: id,
-            address: tempAddress,
-            lat: 12.345,
-            lng: 12.345,
-            personCount: tempCountPerson
+// pobieranie wspolrzednych geo
+async function getLatAngLng(key, address){
+    await axios.get(`http://api.positionstack.com/v1/forward?access_key=${key}&query=${address}`).then(response => {
+        (response.data.data).map(record => {
+            if(record.locality === "Poznan"){
+                //console.log(record)
+                return record
+            } 
+        })
+    })
+}
+
+// odczyt wszystkich linijek z pliku
+async function getAllLines(file){
+    const allFileContent = fs.readFileSync(file, 'utf-8');
+    allFileContent.split(/\r?\n/).forEach(line =>  {
+        if(line.startsWith('schron')){
+            tempShelter = {}
+            let tempAddress = ''
+            let tempCountPerson = 0
+            let tempLat = 0
+            let tempLng = 0
+            tempAddress = line.substring(line.indexOf('schron')+7, line.indexOf('pomieści')-2);
+            tempCountPerson = line.substring(line.indexOf('osób')+6)    
+            tempShelter = {
+                id: id,
+                address: tempAddress,
+                lat: tempLat,
+                lng: tempLng,
+                personCount: tempCountPerson
+            }
+            id++;
         }
-        id++;
-    }
-    else if(line.startsWith('dodatkowe')){
-        let tempDesc = ''
-        tempDesc = line.substring(line.indexOf('dodatkowe')+22)
-        tempShelter.desc = tempDesc
-        shelters.sheltersPoznan.push(tempShelter)
-    }
-});
+        else if(line.startsWith('dodatkowe')){
+            let tempDesc = ''
+            tempDesc = line.substring(line.indexOf('dodatkowe')+22)
+            tempShelter.desc = tempDesc
+            shelters.sheltersPoznan.push(tempShelter)
+        }
+    });
+}
 
-let json = JSON.stringify(shelters, null, 4);
+getAllLines('./schrony.txt')
 
-fs.writeFile('shelters.json', json, 'utf-8', function(err){
-    if(err){
-        console.log("An error occured while writing JSON Object to File.");
-        return console.log(err);
-    }
- 
-    console.log("JSON file has been saved.");
-})
+for(let i = 0; i < shelters.sheltersPoznan.length; i++){
+        let queryAddress = encodeURIComponent(shelters.sheltersPoznan[i].address)
+        let promises = []
+        promises.push(axios.get(`http://api.positionstack.com/v1/forward?access_key=${key}&query=${queryAddress}`))
+        Promise.all(promises).then(result => {
+            (result[0].data.data).map(record => {
+                if(record.locality === 'Poznan'){
+                    shelters.sheltersPoznan[i].lat = record.latitude
+                    shelters.sheltersPoznan[i].lng = record.longitude
+                    let json = JSON.stringify(shelters, null, 4);
 
-console.log(shelters)
+                    fs.writeFile('shelters.json', json, 'utf-8', function(err){
+                        if(err){
+                            console.log("An error occured while writing JSON Object to File.");
+                            return console.log(err);
+                        }
+                    })
+                }        
+            })
+        })
+}
