@@ -9,6 +9,10 @@ export default function NavbarMain() {
     minWidth: '100%'
   }
 
+  function handleSubmit(){
+    alert('w trakcie tworzenia...')
+  }
+
   return (
     <Navbar bg="dark" variant='dark' expand="lg" style={nav}>
       <Container>
@@ -17,8 +21,8 @@ export default function NavbarMain() {
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0">
             <Nav.Link as={NavLink} to='/' exact>Start</Nav.Link>
-            <Nav.Link as={NavLink} to='/map'>Mapa</Nav.Link>
-            <Nav.Link as={NavLink} to='/list'>Lista schronów</Nav.Link>
+            <Nav.Link as={NavLink} to='/mapa'>Mapa</Nav.Link>
+            <Nav.Link as={NavLink} to='/lista'>Lista schronów</Nav.Link>
             <Nav.Link as={NavLink} to='/faq'>FAQ</Nav.Link>
           </Nav>
           <Form className="d-flex">
@@ -28,7 +32,7 @@ export default function NavbarMain() {
               className="me-2"
               aria-label="Search"
             />
-            <Button variant="outline-secondary">Szukaj</Button>
+            <Button variant="outline-secondary" onClick={handleSubmit}>Szukaj</Button>
           </Form>
         </Navbar.Collapse>
       </Container>

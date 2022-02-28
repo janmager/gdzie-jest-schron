@@ -1,0 +1,14 @@
+.shelterInfoBox span span{
+    font-weight: bold;
+}
+
+.shelterInfoBox .shelterBody{
+    display: flex;
+    flex-direction: column;
+}
+
+.breadcrumbs a{
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.6;
+}
