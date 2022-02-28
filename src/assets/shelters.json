@@ -1,0 +1,5188 @@
+{
+    "sheltersPoznan": [
+        {
+            "id": 1,
+            "address": "ul. Rumuńska 17",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "2340",
+            "desc": "Fort VIII Grolman (1876-81) fortyfikacja pruska, właściciel Miasto Poznań, bez numeru"
+        },
+        {
+            "id": 2,
+            "address": "ul. Książęca 35",
+            "lat": 52.360384,
+            "lng": 16.929811,
+            "personCount": "2340",
+            "desc": "Fort I Roder (1878/80) - fortyfikacja pruska - właściciel Skarb Państwa wieczyste użytkowanie EUROWIGA Nr ew. NM 288"
+        },
+        {
+            "id": 3,
+            "address": "ul. Głazowa 3",
+            "lat": 52.375599,
+            "lng": 16.883583,
+            "personCount": "2270",
+            "desc": "Fort IX Brunneck (1876/80) fortyfikacja pruska, właściciel Skarb Państwa, Nr ew. W 300"
+        },
+        {
+            "id": 4,
+            "address": "ul. Wiankowa 1",
+            "lat": 52.400467,
+            "lng": 16.990167,
+            "personCount": "2180",
+            "desc": "Fort III Graf-Kirchbach (1877/1881) - fortyfikacje pruskie, zarządzany przez ZOO - Poznań, właściciel Miasto Poznań Nr ew. NM 292"
+        },
+        {
+            "id": 5,
+            "address": "ul. Polska 13",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "1000",
+            "desc": "Fort VII Columb (1976-81) (schr. fort. nr 224 A)"
+        },
+        {
+            "id": 6,
+            "address": "os. Czecha 110",
+            "lat": 52.382952,
+            "lng": 16.976124,
+            "personCount": "990",
+            "desc": "Fort II A Thumen (1887/90) - fortyfikacja pruska - włąściciel Miasto Poznań Nr ew. NM 291, użytkownik ul. Kurlandzka/Piaśnicka"
+        },
+        {
+            "id": 7,
+            "address": "ul. Gołężycka 26c",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "990",
+            "desc": "Fort I A Boyen (1887/90) - fortyfikacja pruska, magazyn (osoby fizyczne) - właściciel Miasto Poznań Nr ew. NM 289"
+        },
+        {
+            "id": 8,
+            "address": "ul. Lechicka 23",
+            "lat": 52.443287,
+            "lng": 16.936104,
+            "personCount": "990",
+            "desc": "Fort V A Waldresee (1881/86) - fortyfikacje pruskie, wieczyste użytkowanie PTOP, właściciel Skarb Państwa, bez numeru, nie zagospodarowany"
+        },
+        {
+            "id": 9,
+            "address": "ul. Obodrzycka 61",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "990",
+            "desc": "Fort II Sulpnagen (1878/82) - fortyfikacja pruska - właściciel Miasto Poznań Nr ew. NM 290"
+        },
+        {
+            "id": 10,
+            "address": "ul. Rembertowska 42",
+            "lat": 52.384481,
+            "lng": 16.87082,
+            "personCount": "958",
+            "desc": "Fort VIII A Rohr (1887-90) fortyfikacja pruska, właściciel Miasto Poznań, Nr ew. G 299"
+        },
+        {
+            "id": 11,
+            "address": "ul. Wrzesińska 54",
+            "lat": 52.415143,
+            "lng": 16.997304,
+            "personCount": "958",
+            "desc": "Fort III A Prittwitz (1887/1890) - fortyfikacja pruska, Cmentarz Komunalny Nr 1 Miłostowo (Zakład Kremacji), właściciel Skarb Państwa Nr ew. NM 293"
+        },
+        {
+            "id": 12,
+            "address": "ul. Dwatory 12",
+            "lat": 52.383525,
+            "lng": 16.901066,
+            "personCount": "900",
+            "desc": "(schr.fort.)"
+        },
+        {
+            "id": 13,
+            "address": "ul. Matyi Stanisława 11",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "626",
+            "desc": "(B. PFMŻ)"
+        },
+        {
+            "id": 14,
+            "address": "ul. 28 Czerwca 1956 r. 374",
+            "lat": 52.364728,
+            "lng": 16.903841,
+            "personCount": "539",
+            "desc": "Fort IX A Wilzleben (1877/80) fortyfikacja pruska, właściciel Miasto Poznań, Nr ew. W 301"
+        },
+        {
+            "id": 15,
+            "address": "ul. Szpaków 1",
+            "lat": 52.390312,
+            "lng": 17.011416,
+            "personCount": "504",
+            "desc": "Sz.P. Nr 55, dn. 20.05.08."
+        },
+        {
+            "id": 16,
+            "address": "ul. Murawa 39",
+            "lat": 52.433626,
+            "lng": 16.936496,
+            "personCount": "500",
+            "desc": "(schr. fort. nr 176)"
+        },
+        {
+            "id": 17,
+            "address": "ul. Hetmańska 102",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "430",
+            "desc": "R.S.M. H. Cegielskiego rok budowy 1962"
+        },
+        {
+            "id": 18,
+            "address": "ul. Bukowska 118",
+            "lat": 52.411135,
+            "lng": 16.876032,
+            "personCount": "420",
+            "desc": "MPGM rok budowy 1966"
+        },
+        {
+            "id": 19,
+            "address": "ul. Głogowska 150",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "411",
+            "desc": "-"
+        },
+        {
+            "id": 20,
+            "address": "ul. Matejki Jana 8/10",
+            "lat": 52.405846,
+            "lng": 16.901348,
+            "personCount": "371",
+            "desc": "Zespół szkół Ogólnokszałcących nr 12 II L.O. rok budowy 1958"
+        },
+        {
+            "id": 21,
+            "address": "ul. Rolna 22",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "360",
+            "desc": "rok budowy 1963"
+        },
+        {
+            "id": 22,
+            "address": "ul. Gdyńska 54",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "350",
+            "desc": "EC-I warsztat"
+        },
+        {
+            "id": 23,
+            "address": "ul. Dożynkowa 9g",
+            "lat": 52.425951,
+            "lng": 16.925335,
+            "personCount": "346",
+            "desc": "U.P. bl.G (str. prawa) rok budowy 1959"
+        },
+        {
+            "id": 24,
+            "address": "ul. Dożynkowa 9g",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "346",
+            "desc": "U.P. bl.G (str.lewa) rok budowy 1959"
+        },
+        {
+            "id": 25,
+            "address": "ul. Mickiewicza Adama 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "344",
+            "desc": "Zakład Opieki Zdrowotnej Poznań Szpiotal Miejski - Jeżyce, dn.03.02..09."
+        },
+        {
+            "id": 26,
+            "address": "ul. Winklera Błażeja 9/11",
+            "lat": 52.389431,
+            "lng": 16.88979,
+            "personCount": "321",
+            "desc": "Szkoła podstawowa nr 69 rok budowy 1957"
+        },
+        {
+            "id": 27,
+            "address": "ul. Przybyszewskiego Stanisława 37",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "304",
+            "desc": "Szkoła Podstawowa nr 71, posiada dwie B.O. i dwa agregaty RM 300, funkcję adm. sprawuje Dyr. S.P. nr 71 pani mgr Grażyna Jankowska 07.05.09."
+        },
+        {
+            "id": 28,
+            "address": "ul. Jawornicka 8",
+            "lat": 52.388842,
+            "lng": 16.854585,
+            "personCount": "300",
+            "desc": "-"
+        },
+        {
+            "id": 29,
+            "address": "ul. Nieszawska 9",
+            "lat": 52.416958,
+            "lng": 16.97848,
+            "personCount": "300",
+            "desc": "(hala B-1)"
+        },
+        {
+            "id": 30,
+            "address": "ul. Słowackiego Juliusza 62",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "300",
+            "desc": "-"
+        },
+        {
+            "id": 31,
+            "address": "ul. Taczaka Stanisława 10",
+            "lat": 52.405532,
+            "lng": 16.920804,
+            "personCount": "300",
+            "desc": "PKP S.A. Schron wolnostojacy rok budowy 1944"
+        },
+        {
+            "id": 32,
+            "address": "ul. Chlebowa 4/8",
+            "lat": 52.415871,
+            "lng": 16.960787,
+            "personCount": "296",
+            "desc": "Beiersdorf-Lechia S.A. rok budowy 1943"
+        },
+        {
+            "id": 33,
+            "address": "ul. Naramowicka 150",
+            "lat": 52.445493,
+            "lng": 16.947494,
+            "personCount": "292",
+            "desc": "(schr. fort. nr 185)"
+        },
+        {
+            "id": 34,
+            "address": "ul. Gdyńska 54",
+            "lat": 52.436037,
+            "lng": 16.986846,
+            "personCount": "286",
+            "desc": "rok budowy 1978"
+        },
+        {
+            "id": 35,
+            "address": "ul. Węgorka Władysława 22",
+            "lat": 52.397683,
+            "lng": 16.852886,
+            "personCount": "280",
+            "desc": "-"
+        },
+        {
+            "id": 36,
+            "address": "ul. Trybunalska 17",
+            "lat": 52.398429,
+            "lng": 16.864127,
+            "personCount": "280",
+            "desc": "Szkoła Podstawowa nr 74 podfort nr 105"
+        },
+        {
+            "id": 37,
+            "address": "ul. Wenecjańska 4",
+            "lat": 52.408612,
+            "lng": 16.940673,
+            "personCount": "271",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 38,
+            "address": "ul. Minikowo 11",
+            "lat": 52.360686,
+            "lng": 16.940847,
+            "personCount": "270",
+            "desc": "Pińczowska (w polu)"
+        },
+        {
+            "id": 39,
+            "address": "ul. Bobrzańska 30",
+            "lat": 52.379991,
+            "lng": 16.976692,
+            "personCount": "270",
+            "desc": "fort (nr 251)"
+        },
+        {
+            "id": 40,
+            "address": "ul. Jana Pawła II 28",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "258",
+            "desc": "D.S. Politechniki Poznańskiej rok budowy 1959"
+        },
+        {
+            "id": 41,
+            "address": "ul. 28 Czerwca 1956 r. 226",
+            "lat": 52.380377,
+            "lng": 16.909806,
+            "personCount": "257",
+            "desc": "W2 wolnostojący"
+        },
+        {
+            "id": 42,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "257",
+            "desc": "H. Cegielski rok budowy 1956 Fabryka Silników Okrętowych"
+        },
+        {
+            "id": 43,
+            "address": "ul. Polna 33",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "257",
+            "desc": "Szpital Ginekologiczno Położniczy rok budowy 1942"
+        },
+        {
+            "id": 44,
+            "address": "ul. Polna 33",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "257",
+            "desc": "Szpital Ginekologiczno-Połozniczy rok budowy 1942"
+        },
+        {
+            "id": 45,
+            "address": "os. Orła Białego 120",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "250",
+            "desc": "Sz. P. nr 64, dn. 19.05.08."
+        },
+        {
+            "id": 46,
+            "address": "ul. Powstańców Wielkopolskich 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "247",
+            "desc": "Sz.P. nr 75, dn 20.05.08."
+        },
+        {
+            "id": 47,
+            "address": "ul. 28 Czerwca 1956 r. 238",
+            "lat": 52.378369,
+            "lng": 16.907018,
+            "personCount": "246",
+            "desc": "-"
+        },
+        {
+            "id": 48,
+            "address": "ul. Łozowa 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "246",
+            "desc": "rok budowy 1963"
+        },
+        {
+            "id": 49,
+            "address": "ul. Dąbrowskiego Jana Henryka 82",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "240",
+            "desc": "MPGM"
+        },
+        {
+            "id": 49,
+            "address": "ul. Dąbrowskiego Jana Henryka 82",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "240",
+            "desc": "MPGM"
+        },
+        {
+            "id": 50,
+            "address": "ul. Kutrzeby gen. Tadeusza 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "240",
+            "desc": "XII L.O. rok budowy 1958"
+        },
+        {
+            "id": 51,
+            "address": "ul. Dąbrowskiego Jana Henryka 81/85",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "240",
+            "desc": "WIEPOFAMA S.A."
+        },
+        {
+            "id": 52,
+            "address": "ul. Krańcowa 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "237",
+            "desc": "(bud. nr 2) - POMET"
+        },
+        {
+            "id": 53,
+            "address": "ul. Łozowa 53",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "237",
+            "desc": "Szkoła podstawowa nr 49 rok budowy 1960"
+        },
+        {
+            "id": 54,
+            "address": "ul. Brandstaettera Romana 1",
+            "lat": 52.425668,
+            "lng": 16.934207,
+            "personCount": "236",
+            "desc": "Szkoła podstawowa nr 38"
+        },
+        {
+            "id": 55,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 52.380168,
+            "lng": 16.910546,
+            "personCount": "236",
+            "desc": "H. Cegielski rok budowy 1960"
+        },
+        {
+            "id": 56,
+            "address": "ul. Marszałkowska 8b",
+            "lat": 52.39901,
+            "lng": 16.872654,
+            "personCount": "231",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 57,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 52.380168,
+            "lng": 16.910546,
+            "personCount": "231",
+            "desc": "H. Cegielski rok budowy 1960 magazyn materiałowy"
+        },
+        {
+            "id": 58,
+            "address": "ul. Za Groblą 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "230",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 59,
+            "address": "ul. Rynarzewska 19",
+            "lat": 52.389351,
+            "lng": 16.876301,
+            "personCount": "230",
+            "desc": "S.M. \"GRUNWALD\" schron nr 228 ak. 01.06.09r."
+        },
+        {
+            "id": 60,
+            "address": "ul. Rynarzewska 15",
+            "lat": 52.38955,
+            "lng": 16.876661,
+            "personCount": "230",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 61,
+            "address": "ul. Bóżnicza 10",
+            "lat": 52.41256,
+            "lng": 16.93553,
+            "personCount": "229",
+            "desc": "Dom dziecka rok budowy 1943"
+        },
+        {
+            "id": 61,
+            "address": "ul. Bóżnicza 10",
+            "lat": 52.41256,
+            "lng": 16.93553,
+            "personCount": "229",
+            "desc": "Dom dziecka rok budowy 1943"
+        },
+        {
+            "id": 62,
+            "address": "ul. Jackowskiego Maksymiliana 5/7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "224",
+            "desc": "schron wolnostojący"
+        },
+        {
+            "id": 63,
+            "address": "ul. Dożynkowa 9a",
+            "lat": 52.426905,
+            "lng": 16.924188,
+            "personCount": "224",
+            "desc": "U.P. bl.A (str. lewa)"
+        },
+        {
+            "id": 64,
+            "address": "ul. Dożynkowa 9a",
+            "lat": 52.426905,
+            "lng": 16.924188,
+            "personCount": "224",
+            "desc": "U.P. bl.A (str.prawa)"
+        },
+        {
+            "id": 65,
+            "address": "os. Przyjaźni 116",
+            "lat": 52.433527,
+            "lng": 16.932836,
+            "personCount": "224",
+            "desc": "T.P. S.A. rok budowy 1975/76"
+        },
+        {
+            "id": 66,
+            "address": "ul. Żeromskiego Stefana 8/12",
+            "lat": 52.416679,
+            "lng": 16.892825,
+            "personCount": "223",
+            "desc": "Szkoła Podstawowa nr 23"
+        },
+        {
+            "id": 67,
+            "address": "ul. Krańcowa 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "216",
+            "desc": "/W-3/ - POMET"
+        },
+        {
+            "id": 68,
+            "address": "ul. Botaniczna 2",
+            "lat": 52.417095,
+            "lng": 16.885065,
+            "personCount": "216",
+            "desc": "-"
+        },
+        {
+            "id": 69,
+            "address": "ul. Łukaszewicza Józefa 23",
+            "lat": 52.392674,
+            "lng": 16.903199,
+            "personCount": "215",
+            "desc": "-"
+        },
+        {
+            "id": 70,
+            "address": "ul. Łukaszewicza Józefa 9/13",
+            "lat": 52.394431,
+            "lng": 16.903575,
+            "personCount": "214",
+            "desc": "Szkoła Podstawowa nr 9"
+        },
+        {
+            "id": 71,
+            "address": "ul. Kasprzaka Marcina 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "213",
+            "desc": "S.M. \"GRUNWALD\" schron nr 230 ak. 01.06.09r."
+        },
+        {
+            "id": 72,
+            "address": "ul. Niegolewskich Andrzeja i Władysława 13a",
+            "lat": 52.395384,
+            "lng": 16.898388,
+            "personCount": "213",
+            "desc": "S.M. \"GRUNWALD\" schron nr 228 ak. 01.06.09r."
+        },
+        {
+            "id": 73,
+            "address": "ul. Niegolewskich Andrzeja i Władysława 15",
+            "lat": 52.395677,
+            "lng": 16.898237,
+            "personCount": "213",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 74,
+            "address": "ul. Gołężycka 23",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "210",
+            "desc": "ul. Obodrzycka"
+        },
+        {
+            "id": 75,
+            "address": "pl. Wolności 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "208",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 76,
+            "address": "ul. Przybyszewskiego Stanisława 40",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "206",
+            "desc": "S.M. \"GRUNWALD\" schron nr 297 ak. 01.06.09r."
+        },
+        {
+            "id": 77,
+            "address": "ul. Przybyszewskiego Stanisława 36",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "206",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1959"
+        },
+        {
+            "id": 78,
+            "address": "ul. Rokietnicka 2a",
+            "lat": 52.408284,
+            "lng": 16.892657,
+            "personCount": "204",
+            "desc": "-"
+        },
+        {
+            "id": 79,
+            "address": "ul. Dożynkowa 9b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "204",
+            "desc": "U.P. bl.B (str.prawa)"
+        },
+        {
+            "id": 80,
+            "address": "ul. Husarska 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "204",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 81,
+            "address": "ul. Dożynkowa 9b",
+            "lat": 52.426441,
+            "lng": 16.924766,
+            "personCount": "204",
+            "desc": "U.P. bl.B (str.lewa)"
+        },
+        {
+            "id": 82,
+            "address": "ul. Droga Dębińska 23",
+            "lat": 52.392386,
+            "lng": 16.933206,
+            "personCount": "201",
+            "desc": "-"
+        },
+        {
+            "id": 83,
+            "address": "ul. Wroniecka 2/3",
+            "lat": 52.40967,
+            "lng": 16.933891,
+            "personCount": "201",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 84,
+            "address": "ul. Garbary 16",
+            "lat": 52.402428,
+            "lng": 16.936841,
+            "personCount": "200",
+            "desc": "REDUTA"
+        },
+        {
+            "id": 85,
+            "address": "ul. Głogowska 221",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "200",
+            "desc": "(schr.fort.)"
+        },
+        {
+            "id": 86,
+            "address": "ul. Promienista 162",
+            "lat": 52.38612,
+            "lng": 16.862924,
+            "personCount": "200",
+            "desc": "schr.fort."
+        },
+        {
+            "id": 87,
+            "address": "ul. Krańcowa 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "(bud. B-1)"
+        },
+        {
+            "id": 88,
+            "address": "ul. Młyńska 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "plac zabaw"
+        },
+        {
+            "id": 88,
+            "address": "ul. Młyńska 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "plac zabaw"
+        },
+        {
+            "id": 89,
+            "address": "ul. Wojska Polskiego 71b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "Instytut Włókien Naturalnych rok budowy 1952 - budowla ochronna zlikwidowana w 1989 r."
+        },
+        {
+            "id": 90,
+            "address": "ul. Kościuszki Tadeusza 42",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "-"
+        },
+        {
+            "id": 90,
+            "address": "ul. Kościuszki Tadeusza 42",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "-"
+        },
+        {
+            "id": 91,
+            "address": "ul. Głogowska 17",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "P.P.U.P. Poczta Polska Centrum Ekspedycyjno-Rozdzielcze w Poznaniu z siedzibą w Komornikach ul. Polna 20, w Komornikach nowa B.O. wybudowana w 2002 r."
+        },
+        {
+            "id": 92,
+            "address": "ul. Dworcowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "200",
+            "desc": "(piwnice Dworca Gł. nr 1)"
+        },
+        {
+            "id": 93,
+            "address": "ul. Prądzyńskiego Ignacego 53",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "198",
+            "desc": "Zespół Szkół z Oddziałami Integracyjnymi i Specjalnymi Nr 2, schron znajduje się w budynku nr \"E\" przy ul. Sikorskiego 21, dn. 09.06.09."
+        },
+        {
+            "id": 94,
+            "address": "ul. Sikorskiego Władysława 29",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "198",
+            "desc": "Szkoła Podstawowa nr 104 rok budowy 1960"
+        },
+        {
+            "id": 95,
+            "address": "ul. Winiary 9",
+            "lat": 52.432073,
+            "lng": 16.910656,
+            "personCount": "193",
+            "desc": "-"
+        },
+        {
+            "id": 96,
+            "address": "ul. Drzymały Michała 4/6",
+            "lat": 52.422359,
+            "lng": 16.910715,
+            "personCount": "193",
+            "desc": "Szkoła Podstawowa nr 73 rok budowy 1960"
+        },
+        {
+            "id": 97,
+            "address": "ul. Forteczna 12",
+            "lat": 52.367645,
+            "lng": 16.935795,
+            "personCount": "191",
+            "desc": "bud. 1"
+        },
+        {
+            "id": 98,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "191",
+            "desc": "STOMIL bud. 7"
+        },
+        {
+            "id": 99,
+            "address": "ul. Rawicka 12/14",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "190",
+            "desc": "Szkoła Podstawowa nr 4 rok budowy 1957"
+        },
+        {
+            "id": 100,
+            "address": "ul. Dąbrowskiego Jana Henryka 109",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "190",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 101,
+            "address": "ul. Głogowska 263a",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "190",
+            "desc": "-"
+        },
+        {
+            "id": 102,
+            "address": "ul. 28 Czerwca 1956 r. 226",
+            "lat": 52.380377,
+            "lng": 16.909806,
+            "personCount": "188",
+            "desc": "mag.nr 2"
+        },
+        {
+            "id": 103,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 52.380168,
+            "lng": 16.910546,
+            "personCount": "188",
+            "desc": "H. Cegielski magazyn rok budowy 1960"
+        },
+        {
+            "id": 104,
+            "address": "ul. Krańcowa 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "187",
+            "desc": "(biurowiec) - POMET"
+        },
+        {
+            "id": 105,
+            "address": "ul. Starołęcka 18a",
+            "lat": 52.373755,
+            "lng": 16.936928,
+            "personCount": "187",
+            "desc": "STOMIL bud. 4"
+        },
+        {
+            "id": 106,
+            "address": "ul. Kasztanowa 25",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "186",
+            "desc": "rok budowy 1961"
+        },
+        {
+            "id": 107,
+            "address": "ul. Krańcowa 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "186",
+            "desc": "-"
+        },
+        {
+            "id": 108,
+            "address": "al. Niepodległości 32",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "186",
+            "desc": "Zespól Szkół Nr 2 z Oddziałami Sportowymi i Mistrzostwa Sportowego"
+        },
+        {
+            "id": 109,
+            "address": "ul. Stary Rynek 3",
+            "lat": 52.408319,
+            "lng": 16.933062,
+            "personCount": "185",
+            "desc": "Arsenał"
+        },
+        {
+            "id": 110,
+            "address": "ul. Pionierska 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "184",
+            "desc": "-"
+        },
+        {
+            "id": 111,
+            "address": "ul. Droga Dębińska 31",
+            "lat": 52.379143,
+            "lng": 16.927511,
+            "personCount": "184",
+            "desc": "-"
+        },
+        {
+            "id": 112,
+            "address": "ul. Bukowa 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "184",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 113,
+            "address": "ul. Zamenhofa Ludwika 42",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "181",
+            "desc": "-"
+        },
+        {
+            "id": 114,
+            "address": "ul. Cześnikowska 13",
+            "lat": 52.399674,
+            "lng": 16.87388,
+            "personCount": "181",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 115,
+            "address": "ul. Okopowa 6",
+            "lat": 52.366567,
+            "lng": 16.943184,
+            "personCount": "180",
+            "desc": "ul. Forteczna"
+        },
+        {
+            "id": 116,
+            "address": "ul. Niecała 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "180",
+            "desc": "Budynek Zakładowy dawnego POLMOS"
+        },
+        {
+            "id": 117,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "180",
+            "desc": "STOMIL bud. 2"
+        },
+        {
+            "id": 118,
+            "address": "ul. Krańcowa 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "180",
+            "desc": "(hala B-2)"
+        },
+        {
+            "id": 119,
+            "address": "ul. Towarowa 45",
+            "lat": 52.40493,
+            "lng": 16.916451,
+            "personCount": "180",
+            "desc": "rok budowy 1919 - dawny PKS Oddział Zaopatrzenia budowla ochronna zlikwidowana."
+        },
+        {
+            "id": 120,
+            "address": "ul. Garbary 101/111",
+            "lat": 52.413577,
+            "lng": 16.938302,
+            "personCount": "180",
+            "desc": "rok budowy 1900"
+        },
+        {
+            "id": 121,
+            "address": "ul. 3 Maja 49a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "180",
+            "desc": "(schron for. Nr 197A) przy ul. Piątkowskiej rok budowy 1910"
+        },
+        {
+            "id": 121,
+            "address": "ul. 3 Maja 49a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "180",
+            "desc": "(schron for. Nr 197A) przy ul. Piątkowskiej rok budowy 1910"
+        },
+        {
+            "id": 122,
+            "address": "ul. Rycerska 13",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "178",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 123,
+            "address": "pl. Ratajskiego Cyryla 4a",
+            "lat": 52.409779,
+            "lng": 16.923238,
+            "personCount": "177",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 124,
+            "address": "ul. 28 Czerwca 1956 r. 160a",
+            "lat": 52.387295,
+            "lng": 16.916326,
+            "personCount": "176",
+            "desc": "R.S.M H. Cegielskiego rok budowy 1961"
+        },
+        {
+            "id": 125,
+            "address": "ul. 28 Czerwca 1956 r. 158a",
+            "lat": 52.387516,
+            "lng": 16.916525,
+            "personCount": "176",
+            "desc": "R.S.M. H. Cegielskiego rok budowy 1961"
+        },
+        {
+            "id": 126,
+            "address": "ul. Potworowskiego Gustawa 10",
+            "lat": 52.392288,
+            "lng": 16.893505,
+            "personCount": "174",
+            "desc": "W.M. rok budowy 1957"
+        },
+        {
+            "id": 127,
+            "address": "ul. Husarska 12",
+            "lat": 52.401495,
+            "lng": 16.874663,
+            "personCount": "173",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 128,
+            "address": "ul. Jarochowskiego Kazimierza 62",
+            "lat": 52.389263,
+            "lng": 16.888741,
+            "personCount": "171",
+            "desc": "Szkoa Podstawowa nr 69 rok budowy 1957"
+        },
+        {
+            "id": 129,
+            "address": "ul. Piękna 37",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "171",
+            "desc": "Szkoła Podstawowa nr 70 im. Mikołaja Kopernika, 06.10.08."
+        },
+        {
+            "id": 130,
+            "address": "ul. Wołyńska 33",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "171",
+            "desc": "Uniwersytet Przyrodniczy rok budowy 1956"
+        },
+        {
+            "id": 131,
+            "address": "ul. Krasińskiego Zygmunta 15/17a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "170",
+            "desc": "-"
+        },
+        {
+            "id": 132,
+            "address": "ul. Jasna 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "170",
+            "desc": "pod chodnikiem"
+        },
+        {
+            "id": 132,
+            "address": "ul. Jasna 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "170",
+            "desc": "pod chodnikiem"
+        },
+        {
+            "id": 132,
+            "address": "ul. Jasna 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "170",
+            "desc": "pod chodnikiem"
+        },
+        {
+            "id": 133,
+            "address": "ul. Szamotulska 86",
+            "lat": 52.414477,
+            "lng": 16.88561,
+            "personCount": "168",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 134,
+            "address": "ul. Wolsztyńska 27",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "168",
+            "desc": "-"
+        },
+        {
+            "id": 135,
+            "address": "ul. Szamotulska 80",
+            "lat": 52.41395,
+            "lng": 16.885319,
+            "personCount": "168",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 136,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "166",
+            "desc": "STOMIL hala 10"
+        },
+        {
+            "id": 137,
+            "address": "ul. Włodkowica Pawła 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "166",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 138,
+            "address": "ul. Wierzbięcice 64",
+            "lat": 52.391157,
+            "lng": 16.921608,
+            "personCount": "163",
+            "desc": "-"
+        },
+        {
+            "id": 139,
+            "address": "ul. Łozowa 102",
+            "lat": 52.363906,
+            "lng": 16.907152,
+            "personCount": "163",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 140,
+            "address": "ul. Azaliowa 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "163",
+            "desc": "rok budowy 1957"
+        },
+        {
+            "id": 141,
+            "address": "ul. św. Jerzego 6/10",
+            "lat": 52.391408,
+            "lng": 16.921998,
+            "personCount": "163",
+            "desc": "szkoła podstawowa nr 39"
+        },
+        {
+            "id": 142,
+            "address": "al. Wielkopolska 21/25",
+            "lat": 52.417479,
+            "lng": 16.915329,
+            "personCount": "161",
+            "desc": "na posesjach o nr 5-7-9"
+        },
+        {
+            "id": 142,
+            "address": "al. Wielkopolska 21/25",
+            "lat": 52.417479,
+            "lng": 16.915329,
+            "personCount": "161",
+            "desc": "na posesjach o nr 5-7-9"
+        },
+        {
+            "id": 142,
+            "address": "al. Wielkopolska 21/25",
+            "lat": 52.417479,
+            "lng": 16.915329,
+            "personCount": "161",
+            "desc": "na posesjach o nr 5-7-9"
+        },
+        {
+            "id": 142,
+            "address": "al. Wielkopolska 21/25",
+            "lat": 52.417479,
+            "lng": 16.915329,
+            "personCount": "161",
+            "desc": "na posesjach o nr 5-7-9"
+        },
+        {
+            "id": 143,
+            "address": "ul. Żeromskiego Stefana 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "160",
+            "desc": "Dawna S.N. SINPO rok budowy 1962"
+        },
+        {
+            "id": 144,
+            "address": "ul. 3 Maja 48c",
+            "lat": 52.409231,
+            "lng": 16.924893,
+            "personCount": "160",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 145,
+            "address": "ul. Rycerska 27",
+            "lat": 52.402216,
+            "lng": 16.873767,
+            "personCount": "158",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 146,
+            "address": "ul. Taczaka Stanisława 9",
+            "lat": 52.405436,
+            "lng": 16.922029,
+            "personCount": "157",
+            "desc": "-"
+        },
+        {
+            "id": 147,
+            "address": "ul. Ogrodowa 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "157",
+            "desc": "MPGM 1959"
+        },
+        {
+            "id": 148,
+            "address": "ul. Libelta Karola 14a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "157",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 149,
+            "address": "ul. Prądzyńskiego Ignacego 21",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 150,
+            "address": "ul. Nowy Świat 10a",
+            "lat": 52.414955,
+            "lng": 16.881361,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 151,
+            "address": "ul. Nowy Świat 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 152,
+            "address": "ul. Nowy Świat 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 153,
+            "address": "ul. Nowy Świat 5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 154,
+            "address": "pl. Waryńskiego Ludwika 2a",
+            "lat": 52.416115,
+            "lng": 16.8823,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 155,
+            "address": "ul. Nowy Świat 8a",
+            "lat": 52.415285,
+            "lng": 16.881738,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 156,
+            "address": "ul. Szpitalna 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 157,
+            "address": "ul. Szpitalna 15",
+            "lat": 52.415402,
+            "lng": 16.880658,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 158,
+            "address": "ul. Szpitalna 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "156",
+            "desc": "-"
+        },
+        {
+            "id": 159,
+            "address": "ul. Madalińskiego Antoniego 23",
+            "lat": 52.385975,
+            "lng": 16.913289,
+            "personCount": "156",
+            "desc": "R.S.M H. Cegielskiego rok budowy 1961"
+        },
+        {
+            "id": 160,
+            "address": "ul. Nowy Świat 8b",
+            "lat": 52.415379,
+            "lng": 16.881536,
+            "personCount": "155",
+            "desc": "R.C.K. i K. na terenie obiektu znajduje się ukrycie pplot. z czasów II wojny światowej - bezużyteczne p. Skotarczak tel. 061 886 3315, dn. 16.02.09."
+        },
+        {
+            "id": 160,
+            "address": "ul. Nowy Świat 8b",
+            "lat": 52.415379,
+            "lng": 16.881536,
+            "personCount": "155",
+            "desc": "R.C.K. i K. na terenie obiektu znajduje się ukrycie pplot. z czasów II wojny światowej - bezużyteczne p. Skotarczak tel. 061 886 3315, dn. 16.02.09."
+        },
+        {
+            "id": 161,
+            "address": "ul. Kórnicka 24",
+            "lat": 52.399746,
+            "lng": 16.950288,
+            "personCount": "154",
+            "desc": "ZOZ rok budowy 1961"
+        },
+        {
+            "id": 162,
+            "address": "ul. Limbowa 19",
+            "lat": 52.365504,
+            "lng": 16.907635,
+            "personCount": "154",
+            "desc": "rok budowy 1955"
+        },
+        {
+            "id": 163,
+            "address": "ul. Gdyńska 54",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "153",
+            "desc": "ZEC-P S.A. rok budowy 1980"
+        },
+        {
+            "id": 164,
+            "address": "ul. Grodziska 41",
+            "lat": 52.409644,
+            "lng": 16.884349,
+            "personCount": "151",
+            "desc": "-"
+        },
+        {
+            "id": 165,
+            "address": "ul. Bukowska 94",
+            "lat": 52.410001,
+            "lng": 16.884167,
+            "personCount": "151",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 166,
+            "address": "ul. Bukowska 84",
+            "lat": 52.409782,
+            "lng": 16.886142,
+            "personCount": "150",
+            "desc": "na prywatnej posesji"
+        },
+        {
+            "id": 166,
+            "address": "ul. Bukowska 84",
+            "lat": 52.409782,
+            "lng": 16.886142,
+            "personCount": "150",
+            "desc": "na prywatnej posesji"
+        },
+        {
+            "id": 167,
+            "address": "ul. Grodziska 57",
+            "lat": 52.410829,
+            "lng": 16.884932,
+            "personCount": "150",
+            "desc": "-"
+        },
+        {
+            "id": 168,
+            "address": "ul. Marcelińska 92/94",
+            "lat": 52.404318,
+            "lng": 16.864796,
+            "personCount": "150",
+            "desc": "byłe zakłdy Alcatel Teletra rok budowy 1972"
+        },
+        {
+            "id": 169,
+            "address": "ul. Bukowska 90",
+            "lat": 52.409926,
+            "lng": 16.884887,
+            "personCount": "150",
+            "desc": "W.M. rok budowy 1958"
+        },
+        {
+            "id": 170,
+            "address": "ul. Hetmańska 36a",
+            "lat": 52.390609,
+            "lng": 16.89204,
+            "personCount": "148",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 171,
+            "address": "ul. Szamotulska 59b",
+            "lat": 52.412021,
+            "lng": 16.882693,
+            "personCount": "148",
+            "desc": "-"
+        },
+        {
+            "id": 172,
+            "address": "ul. św. Wawrzyńca 3",
+            "lat": 52.416513,
+            "lng": 16.904896,
+            "personCount": "147",
+            "desc": "-"
+        },
+        {
+            "id": 173,
+            "address": "pl. Ratajskiego Cyryla 1a",
+            "lat": 52.409153,
+            "lng": 16.923962,
+            "personCount": "147",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 174,
+            "address": "ul. Czarnieckiego Stefana 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "147",
+            "desc": "S.M. \"GRUNWALD\" schron nr 226 ak. 01.06.09r."
+        },
+        {
+            "id": 175,
+            "address": "ul. Lodowa 10",
+            "lat": 52.393084,
+            "lng": 16.899549,
+            "personCount": "147",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 176,
+            "address": "ul. Sienkiewicza Henryka 11",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "MPGM rok budowy 1961"
+        },
+        {
+            "id": 177,
+            "address": "ul. Długosza Jana 25",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "-"
+        },
+        {
+            "id": 178,
+            "address": "ul. Chociszewskiego Józefa 43a",
+            "lat": 52.393329,
+            "lng": 16.887549,
+            "personCount": "146",
+            "desc": "-"
+        },
+        {
+            "id": 179,
+            "address": "ul. Chociszewskiego Józefa 44c",
+            "lat": 52.393408,
+            "lng": 16.889471,
+            "personCount": "146",
+            "desc": "Przedszkole nr 32, dn. 08.09.08."
+        },
+        {
+            "id": 180,
+            "address": "ul. Chociszewskiego Józefa 50",
+            "lat": 52.393541,
+            "lng": 16.887688,
+            "personCount": "146",
+            "desc": "Przedszkole nr 32 rok budowy 1953"
+        },
+        {
+            "id": 181,
+            "address": "ul. Królowej Jadwigi 42",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "MPGK rok budowy 1959Dolna Wilda - Królowej Jadwigi"
+        },
+        {
+            "id": 182,
+            "address": "ul. Kutrzeby gen. Tadeusza 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "Czeremchowa"
+        },
+        {
+            "id": 182,
+            "address": "ul. Kutrzeby gen. Tadeusza 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "Czeremchowa"
+        },
+        {
+            "id": 182,
+            "address": "ul. Kutrzeby gen. Tadeusza 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "146",
+            "desc": "Czeremchowa"
+        },
+        {
+            "id": 183,
+            "address": "ul. Azaliowa 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "144",
+            "desc": "rok budowy 1958"
+        },
+        {
+            "id": 184,
+            "address": "ul. Przybyszewskiego Stanisława 62",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "144",
+            "desc": "S.M. \"GRUNWALD\" schron nr 298 ak. 01.06.09r."
+        },
+        {
+            "id": 185,
+            "address": "ul. Chociszewskiego Józefa 41/43",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "143",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 186,
+            "address": "ul. Jarochowskiego Kazimierza 2",
+            "lat": 52.398711,
+            "lng": 16.896094,
+            "personCount": "143",
+            "desc": "-"
+        },
+        {
+            "id": 187,
+            "address": "ul. Szamotulska 33",
+            "lat": 52.407758,
+            "lng": 16.881974,
+            "personCount": "141",
+            "desc": "Zespół szkół Zawodowych rok budowy 1956"
+        },
+        {
+            "id": 188,
+            "address": "ul. Hetmańska 15/19b",
+            "lat": 52.392177,
+            "lng": 16.889204,
+            "personCount": "141",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 189,
+            "address": "ul. Wierzbięcice 36",
+            "lat": 52.394834,
+            "lng": 16.921757,
+            "personCount": "141",
+            "desc": "-"
+        },
+        {
+            "id": 189,
+            "address": "ul. Wierzbięcice 36",
+            "lat": 52.394834,
+            "lng": 16.921757,
+            "personCount": "141",
+            "desc": "-"
+        },
+        {
+            "id": 190,
+            "address": "ul. Bałtycka 47",
+            "lat": 52.42743,
+            "lng": 16.98203,
+            "personCount": "140",
+            "desc": "fort (nr 277)"
+        },
+        {
+            "id": 191,
+            "address": "ul. Głogowska 65",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "140",
+            "desc": "-"
+        },
+        {
+            "id": 192,
+            "address": "ul. Anonima Galla 11abc",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "138",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 193,
+            "address": "ul. Dąbrowskiego Jana Henryka 92",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "138",
+            "desc": "-"
+        },
+        {
+            "id": 194,
+            "address": "ul. Anonima Galla 9a",
+            "lat": 52.413679,
+            "lng": 16.895277,
+            "personCount": "138",
+            "desc": "MPGM rok budowy 1967"
+        },
+        {
+            "id": 195,
+            "address": "ul. Wiązowa 5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "137",
+            "desc": "Przedszkole nr 43 rok budowy 1956"
+        },
+        {
+            "id": 196,
+            "address": "ul. Przybyszewskiego Stanisława 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "137",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 197,
+            "address": "ul. Przybyszewskiego Stanisława 26",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "137",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 198,
+            "address": "ul. Limbowa 2",
+            "lat": 52.365219,
+            "lng": 16.90608,
+            "personCount": "137",
+            "desc": "Przedszkole nr 81 im. Skrzata Borodzieja, dn. 09.06.09."
+        },
+        {
+            "id": 199,
+            "address": "ul. Hetmańska 35",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "136",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 200,
+            "address": "ul. 23 Lutego 21",
+            "lat": 52.410277,
+            "lng": 16.928235,
+            "personCount": "135",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 200,
+            "address": "ul. 23 Lutego 21",
+            "lat": 52.410277,
+            "lng": 16.928235,
+            "personCount": "135",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 201,
+            "address": "ul. Włodkowica Pawła 11",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "131",
+            "desc": "S.M. \"GRUNWALD\" schron nr 264 ak. 01.06.09r."
+        },
+        {
+            "id": 202,
+            "address": "ul. Powstańcza 3",
+            "lat": 52.392184,
+            "lng": 16.923253,
+            "personCount": "130",
+            "desc": "-"
+        },
+        {
+            "id": 202,
+            "address": "ul. Powstańcza 3",
+            "lat": 52.392184,
+            "lng": 16.923253,
+            "personCount": "130",
+            "desc": "-"
+        },
+        {
+            "id": 203,
+            "address": "ul. Szamotulska 63",
+            "lat": 52.412244,
+            "lng": 16.884015,
+            "personCount": "130",
+            "desc": "-"
+        },
+        {
+            "id": 204,
+            "address": "ul. Szamotulska 53",
+            "lat": 52.411313,
+            "lng": 16.883621,
+            "personCount": "130",
+            "desc": "-"
+        },
+        {
+            "id": 205,
+            "address": "ul. Piękna 37",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "130",
+            "desc": "Szkoła Podstawowa nr 70 im. Mikołaja Kopernika, 06.10.08."
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 206,
+            "address": "ul. Starołęcka 18u",
+            "lat": 52.374804,
+            "lng": 16.93707,
+            "personCount": "130",
+            "desc": "vis a vis nr 39"
+        },
+        {
+            "id": 207,
+            "address": "ul. Głogowska 89B",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "130",
+            "desc": "S.M. GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 208,
+            "address": "ul. Kazimierza Wielkiego 24/26",
+            "lat": 52.402442,
+            "lng": 16.940414,
+            "personCount": "128",
+            "desc": "EC-1"
+        },
+        {
+            "id": 209,
+            "address": "ul. Wojskowa 24",
+            "lat": 52.404866,
+            "lng": 16.89274,
+            "personCount": "128",
+            "desc": "S.M. \"GRUNWALD\" schron nr 262ak. 01.06.09r. RM - 300, bez silnika"
+        },
+        {
+            "id": 210,
+            "address": "ul. Panny Marii 2",
+            "lat": 52.41404,
+            "lng": 16.943942,
+            "personCount": "128",
+            "desc": "ZEC-P S.A. rok budowy 1956"
+        },
+        {
+            "id": 211,
+            "address": "ul. Gdańska 54",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "128",
+            "desc": "ZEC-P S.A. rok budowy 1956"
+        },
+        {
+            "id": 212,
+            "address": "ul. Baranowska 2",
+            "lat": 52.355927,
+            "lng": 16.943837,
+            "personCount": "127",
+            "desc": "Szkoła Podstawowa nr 59 rok budowy 1958"
+        },
+        {
+            "id": 213,
+            "address": "ul. Słowackiego Juliusza 28a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "127",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 214,
+            "address": "ul. Nowy Świat 7/11",
+            "lat": 52.415183,
+            "lng": 16.882504,
+            "personCount": "127",
+            "desc": "Żłobek rok budowy 1957"
+        },
+        {
+            "id": 215,
+            "address": "ul. Rycerska 25",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "126",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 216,
+            "address": "ul. Folwarczna 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "125",
+            "desc": "PKP Franowo"
+        },
+        {
+            "id": 217,
+            "address": "ul. Piotrowo 5",
+            "lat": 52.401071,
+            "lng": 16.949748,
+            "personCount": "124",
+            "desc": "Politechnika Poznańska Dom Studenta, 23.09.08."
+        },
+        {
+            "id": 218,
+            "address": "ul. Dąbrowskiego Jana Henryka 105",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "123",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 219,
+            "address": "ul. Potockiej Klaudyny 24",
+            "lat": 52.391255,
+            "lng": 16.89627,
+            "personCount": "121",
+            "desc": "S.M. \"GRUNWALD\" schron nr 240 ak. 01.06.09r. - pusty tunel wyjściowy"
+        },
+        {
+            "id": 220,
+            "address": "ul. Chwaliszewo 75",
+            "lat": 52.408317,
+            "lng": 16.94076,
+            "personCount": "121",
+            "desc": "MPGM"
+        },
+        {
+            "id": 221,
+            "address": "ul. Chwaliszewo 13",
+            "lat": 52.40886,
+            "lng": 16.942006,
+            "personCount": "121",
+            "desc": "-"
+        },
+        {
+            "id": 222,
+            "address": "ul. Chłapowskiego Dezyderego 10",
+            "lat": 52.387715,
+            "lng": 16.921027,
+            "personCount": "121",
+            "desc": "R.S.M H. Cegielskiego rok budowy 1958"
+        },
+        {
+            "id": 223,
+            "address": "ul. Przybyszewskiego Stanisława 49",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "120",
+            "desc": "(szpital)"
+        },
+        {
+            "id": 224,
+            "address": "ul. Rycerska 37a",
+            "lat": 52.403132,
+            "lng": 16.870648,
+            "personCount": "120",
+            "desc": "-"
+        },
+        {
+            "id": 225,
+            "address": "ul. Zbąszyńska 31",
+            "lat": 52.409315,
+            "lng": 16.886701,
+            "personCount": "120",
+            "desc": "-"
+        },
+        {
+            "id": 226,
+            "address": "ul. Zbąszyńska 31",
+            "lat": 52.409315,
+            "lng": 16.886701,
+            "personCount": "120",
+            "desc": "-"
+        },
+        {
+            "id": 227,
+            "address": "ul. Bułgarska 76b",
+            "lat": 52.402264,
+            "lng": 16.866056,
+            "personCount": "120",
+            "desc": "-"
+        },
+        {
+            "id": 228,
+            "address": "ul. Święty Wojciech 29",
+            "lat": 52.411804,
+            "lng": 16.932852,
+            "personCount": "120",
+            "desc": "Zakłady Chemiczno - Farmaceutyczne \"Farmapol\" Sp. Pracy w Poznaniu - budowla ochronna zlikwidowana w 1989 r."
+        },
+        {
+            "id": 229,
+            "address": "ul. Ślusarska 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "118",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 230,
+            "address": "ul. Marcelińska 71",
+            "lat": 52.404714,
+            "lng": 16.876885,
+            "personCount": "118",
+            "desc": "-"
+        },
+        {
+            "id": 231,
+            "address": "ul. Szamarzewskiego Augustyna 8",
+            "lat": 52.410374,
+            "lng": 16.901339,
+            "personCount": "118",
+            "desc": "-"
+        },
+        {
+            "id": 232,
+            "address": "ul. Garbary 97/99",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "117",
+            "desc": "(były POZMET) rok budowy 1914"
+        },
+        {
+            "id": 233,
+            "address": "ul. Asnyka Adama 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "117",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 234,
+            "address": "ul. 28 Czerwca 1956 r. 146",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "116",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 235,
+            "address": "ul. Prusa Bolesława 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "116",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 235,
+            "address": "ul. Prusa Bolesława 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "116",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 236,
+            "address": "ul. Dmowskiego Romana 152",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "-"
+        },
+        {
+            "id": 237,
+            "address": "ul. Traugutta Romualda 25",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "MPGM rok budowy 1961"
+        },
+        {
+            "id": 238,
+            "address": "ul. Cicha 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "między numerami 3 i 5"
+        },
+        {
+            "id": 238,
+            "address": "ul. Cicha 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "między numerami 3 i 5"
+        },
+        {
+            "id": 239,
+            "address": "pl. Wielkopolski 10/11c",
+            "lat": 52.410519,
+            "lng": 16.931919,
+            "personCount": "114",
+            "desc": "MPGM rok budowy 1956 Sprawdzono w dniu 08.02.2011r."
+        },
+        {
+            "id": 240,
+            "address": "ul. Owsiana 9a",
+            "lat": 52.424165,
+            "lng": 16.922991,
+            "personCount": "114",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 241,
+            "address": "ul. Laskowa 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "R.S.M. H. Cegelskiego rok budowy 1961"
+        },
+        {
+            "id": 242,
+            "address": "ul. Owsiana 24",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "114",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 243,
+            "address": "ul. Małachowskiego Stanisława 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. prawa"
+        },
+        {
+            "id": 244,
+            "address": "ul. Małachowskiego Stanisława 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. prawa"
+        },
+        {
+            "id": 245,
+            "address": "ul. Małachowskiego Stanisława 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. lewa"
+        },
+        {
+            "id": 246,
+            "address": "ul. Małachowskiego Stanisława 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. lewa"
+        },
+        {
+            "id": 247,
+            "address": "ul. Małachowskiego Stanisława 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. prawa"
+        },
+        {
+            "id": 248,
+            "address": "ul. Małachowskiego Stanisława 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. lewa"
+        },
+        {
+            "id": 249,
+            "address": "ul. św. Michała 39/41",
+            "lat": 52.413328,
+            "lng": 16.964805,
+            "personCount": "113",
+            "desc": "str. lewa"
+        },
+        {
+            "id": 250,
+            "address": "ul. Małachowskiego Stanisława 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. lewa"
+        },
+        {
+            "id": 251,
+            "address": "ul. Małachowskiego Stanisława 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "113",
+            "desc": "str. prawa"
+        },
+        {
+            "id": 252,
+            "address": "ul. Łukaszewicza Józefa 31",
+            "lat": 52.391939,
+            "lng": 16.903037,
+            "personCount": "113",
+            "desc": "budynek mieszkalny PKP rok budowy 1962"
+        },
+        {
+            "id": 253,
+            "address": "ul. Jeżycka 23a",
+            "lat": 52.415825,
+            "lng": 16.909616,
+            "personCount": "112",
+            "desc": "-"
+        },
+        {
+            "id": 254,
+            "address": "ul. Wawrzyniaka Piotra 23/25",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "112",
+            "desc": "Dom Studencki nr 1rok budowy 1953/4"
+        },
+        {
+            "id": 255,
+            "address": "ul. Kramarska 3/5",
+            "lat": 52.40941,
+            "lng": 16.933322,
+            "personCount": "111",
+            "desc": "nr od 2 do 6"
+        },
+        {
+            "id": 255,
+            "address": "ul. Kramarska 3/5",
+            "lat": 52.40941,
+            "lng": 16.933322,
+            "personCount": "111",
+            "desc": "nr od 2 do 6"
+        },
+        {
+            "id": 256,
+            "address": "ul. Nieszawska 9",
+            "lat": 52.416958,
+            "lng": 16.97848,
+            "personCount": "111",
+            "desc": "(hala B-3)"
+        },
+        {
+            "id": 257,
+            "address": "ul. Limanowskiego Bolesława 20",
+            "lat": 52.398015,
+            "lng": 16.896341,
+            "personCount": "111",
+            "desc": "-"
+        },
+        {
+            "id": 257,
+            "address": "ul. Limanowskiego Bolesława 20",
+            "lat": 52.398015,
+            "lng": 16.896341,
+            "personCount": "111",
+            "desc": "-"
+        },
+        {
+            "id": 258,
+            "address": "ul. Łozowa 82",
+            "lat": 52.365224,
+            "lng": 16.907902,
+            "personCount": "111",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 259,
+            "address": "ul. Dąbrowskiego Jana Henryka 100",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "ukrycie pplot. stałe rok budwy 1943"
+        },
+        {
+            "id": 259,
+            "address": "ul. Dąbrowskiego Jana Henryka 100",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "ukrycie pplot. stałe rok budwy 1943"
+        },
+        {
+            "id": 260,
+            "address": "ul. Grunwaldzka 29a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "S.M. \"GRUNWALD\" schron nr 269 ak. 01.06.09r."
+        },
+        {
+            "id": 261,
+            "address": "pl. Waryńskiego Ludwika 4",
+            "lat": 52.415876,
+            "lng": 16.88357,
+            "personCount": "110",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 262,
+            "address": "ul. Księcia Józefa 1/3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "Przedszkole nr 29 rok budowy 1958"
+        },
+        {
+            "id": 263,
+            "address": "ul. Grunwaldzka 37a",
+            "lat": 52.403826,
+            "lng": 16.892931,
+            "personCount": "110",
+            "desc": "S.M. \"GRUNWALD\" schron nr 273 ak. 01.06.09r."
+        },
+        {
+            "id": 264,
+            "address": "ul. Marcelińska 61",
+            "lat": 52.404713,
+            "lng": 16.879557,
+            "personCount": "110",
+            "desc": "S.M. \"GRUNWALD\" schron nr 300 aktualizacja 01.06.09r."
+        },
+        {
+            "id": 265,
+            "address": "ul. Anonima Galla 6a",
+            "lat": 52.41347,
+            "lng": 16.894021,
+            "personCount": "110",
+            "desc": "-"
+        },
+        {
+            "id": 266,
+            "address": "ul. Grunwaldzka 37b",
+            "lat": 52.403989,
+            "lng": 16.892813,
+            "personCount": "110",
+            "desc": "S.M. \"GRUNWALD\" schron nr 271 ak. 01.06.09r."
+        },
+        {
+            "id": 267,
+            "address": "ul. Grunwaldzka 35c",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "Uniwersytet Przyrodniczy rok budowy 1943"
+        },
+        {
+            "id": 267,
+            "address": "ul. Grunwaldzka 35c",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "110",
+            "desc": "Uniwersytet Przyrodniczy rok budowy 1943"
+        },
+        {
+            "id": 268,
+            "address": "ul. Brzeźnicka 10",
+            "lat": 52.390473,
+            "lng": 16.875773,
+            "personCount": "108",
+            "desc": "S.M. \"GRUNWALD\" schron nr 227 ak. 01.06.09r. - prac. ds. OC S.M. \"Grunwald\" J. Poręba tel. 061 6649253 rok budowy 1961"
+        },
+        {
+            "id": 269,
+            "address": "ul. Łozowa 92a",
+            "lat": 52.364869,
+            "lng": 16.906811,
+            "personCount": "107",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 270,
+            "address": "ul. Wodna 8/9",
+            "lat": 52.407398,
+            "lng": 16.936378,
+            "personCount": "107",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 271,
+            "address": "ul. Bukowa 5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "107",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 272,
+            "address": "ul. Łozowa 90a",
+            "lat": 52.365099,
+            "lng": 16.907079,
+            "personCount": "107",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 273,
+            "address": "ul. Robocza 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "106",
+            "desc": "-"
+        },
+        {
+            "id": 274,
+            "address": "ul. Polna 11/13",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "106",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 275,
+            "address": "ul. Krzyżowa 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "106",
+            "desc": "-"
+        },
+        {
+            "id": 276,
+            "address": "ul. Wybickiego Józefa 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "106",
+            "desc": "R.S.M. H. Cegielskiego rok budowy 1961"
+        },
+        {
+            "id": 277,
+            "address": "ul. Grottgera Artura 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "105",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 278,
+            "address": "ul. Taczaka Stanisława 18",
+            "lat": 52.405515,
+            "lng": 16.922739,
+            "personCount": "104",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 279,
+            "address": "ul. Szamarzewskiego Augustyna 4",
+            "lat": 52.410295,
+            "lng": 16.901801,
+            "personCount": "104",
+            "desc": "MPGM rok budowy 1970"
+        },
+        {
+            "id": 280,
+            "address": "ul. Małeckiego Antoniego 8/9",
+            "lat": 52.39733,
+            "lng": 16.904012,
+            "personCount": "104",
+            "desc": "Spóldzielnia Mieszkaniowa \"ZREMB\""
+        },
+        {
+            "id": 281,
+            "address": "ul. Łozowa 92",
+            "lat": 52.364654,
+            "lng": 16.907273,
+            "personCount": "104",
+            "desc": "-"
+        },
+        {
+            "id": 282,
+            "address": "ul. Łozowa 94b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "104",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 283,
+            "address": "al. Marcinkowskiego Karola 29",
+            "lat": 52.409947,
+            "lng": 16.92902,
+            "personCount": "102",
+            "desc": "Uniwersytet Artystyczny p. Szablewski spec. ds. OC tel.608 314 518, dn. 10.04.09."
+        },
+        {
+            "id": 284,
+            "address": "ul. 23 Lutego 14",
+            "lat": 52.409954,
+            "lng": 16.92715,
+            "personCount": "102",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 285,
+            "address": "ul. Wierzbięcice 12",
+            "lat": 52.398374,
+            "lng": 16.921509,
+            "personCount": "101",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 286,
+            "address": "ul. Wojska Polskiego 50",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "100",
+            "desc": "Uniwersytet Przyrodniczy"
+        },
+        {
+            "id": 287,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "100",
+            "desc": "bud. 5"
+        },
+        {
+            "id": 288,
+            "address": "ul. Litewska 5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "100",
+            "desc": "-"
+        },
+        {
+            "id": 289,
+            "address": "ul. Wolnica 7/8",
+            "lat": 52.411379,
+            "lng": 16.93224,
+            "personCount": "100",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 289,
+            "address": "ul. Wolnica 7/8",
+            "lat": 52.411379,
+            "lng": 16.93224,
+            "personCount": "100",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 289,
+            "address": "ul. Wolnica 7/8",
+            "lat": 52.411379,
+            "lng": 16.93224,
+            "personCount": "100",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 290,
+            "address": "ul. Janickiego Klemensa 23/25",
+            "lat": 52.415491,
+            "lng": 16.894831,
+            "personCount": "100",
+            "desc": "POWOGAZ rok budowy 1960"
+        },
+        {
+            "id": 291,
+            "address": "ul. Junikowska 33",
+            "lat": 52.382537,
+            "lng": 16.849411,
+            "personCount": "100",
+            "desc": "Liceum Plastyczne"
+        },
+        {
+            "id": 292,
+            "address": "ul. Głogowska 104",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "100",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 293,
+            "address": "ul. Chociszewskiego Józefa 33",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "100",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 294,
+            "address": "pl. Wielkopolski 9",
+            "lat": 52.410946,
+            "lng": 16.932216,
+            "personCount": "100",
+            "desc": "-"
+        },
+        {
+            "id": 295,
+            "address": "ul. Laskowa 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "100",
+            "desc": "rok budowy 1959"
+        },
+        {
+            "id": 296,
+            "address": "ul. Święty Wojciech 4",
+            "lat": 52.41212,
+            "lng": 16.932151,
+            "personCount": "100",
+            "desc": "Szpital Kliniczny rok budowy 1943"
+        },
+        {
+            "id": 296,
+            "address": "ul. Święty Wojciech 4",
+            "lat": 52.41212,
+            "lng": 16.932151,
+            "personCount": "100",
+            "desc": "Szpital Kliniczny rok budowy 1943"
+        },
+        {
+            "id": 296,
+            "address": "ul. Święty Wojciech 4",
+            "lat": 52.41212,
+            "lng": 16.932151,
+            "personCount": "100",
+            "desc": "Szpital Kliniczny rok budowy 1943"
+        },
+        {
+            "id": 297,
+            "address": "ul. Marcelińska 44",
+            "lat": 52.40429,
+            "lng": 16.883156,
+            "personCount": "100",
+            "desc": "R.C.K.i K.P-ń rok budowy 1957"
+        },
+        {
+            "id": 298,
+            "address": "ul. Naramowicka 154",
+            "lat": 52.447101,
+            "lng": 16.947849,
+            "personCount": "100",
+            "desc": "fort (nr 185)"
+        },
+        {
+            "id": 299,
+            "address": "ul. Świerkowa 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "100",
+            "desc": "Warsztaty Szkolne Zespołu szkół Mechanicznych"
+        },
+        {
+            "id": 300,
+            "address": "ul. Bukowska 26a",
+            "lat": 52.40788,
+            "lng": 16.898292,
+            "personCount": "99",
+            "desc": "-"
+        },
+        {
+            "id": 301,
+            "address": "ul. Husarska 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "98",
+            "desc": "S.M. \"GRUNWALD\" schron nr 282ak. 01.06.09r."
+        },
+        {
+            "id": 302,
+            "address": "ul. Husarska 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "98",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 303,
+            "address": "ul. Forteczna 12",
+            "lat": 52.367645,
+            "lng": 16.935795,
+            "personCount": "97",
+            "desc": "CENTRA rok budowy 1959"
+        },
+        {
+            "id": 304,
+            "address": "ul. Kochanowskiego Jana 19",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "97",
+            "desc": "S.M. Jeżyce rok budowy 1960"
+        },
+        {
+            "id": 305,
+            "address": "ul. Nieszawska 9",
+            "lat": 52.416958,
+            "lng": 16.97848,
+            "personCount": "97",
+            "desc": "(hala B-5)"
+        },
+        {
+            "id": 306,
+            "address": "ul. Calliera Edmunda 6",
+            "lat": 52.395333,
+            "lng": 16.905088,
+            "personCount": "96",
+            "desc": "ZNTK rok budowy 1957"
+        },
+        {
+            "id": 307,
+            "address": "ul. Polna 56b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "96",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 308,
+            "address": "rynek Stary Rynek 52",
+            "lat": 52.407558,
+            "lng": 16.934573,
+            "personCount": "96",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 309,
+            "address": "ul. Ułańska 22",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "96",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 310,
+            "address": "ul. Zbąszyńska 32",
+            "lat": 52.409364,
+            "lng": 16.887061,
+            "personCount": "94",
+            "desc": "-"
+        },
+        {
+            "id": 311,
+            "address": "ul. Albańska 17",
+            "lat": 52.384537,
+            "lng": 16.87888,
+            "personCount": "94",
+            "desc": ", budowla ochronna zlikwidowana w 189 r."
+        },
+        {
+            "id": 312,
+            "address": "ul. Marcelińska 8a",
+            "lat": 52.405174,
+            "lng": 16.896232,
+            "personCount": "94",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 313,
+            "address": "ul. Grunwaldzka 35a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "93",
+            "desc": "S.M. \"GRUNWALD\" schron nr 272 ak. 01.06.09r."
+        },
+        {
+            "id": 314,
+            "address": "ul. Słowackiego Juliusza 26a",
+            "lat": 52.410686,
+            "lng": 16.90792,
+            "personCount": "93",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 315,
+            "address": "ul. Taczaka Stanisława 4",
+            "lat": 52.405195,
+            "lng": 16.923509,
+            "personCount": "93",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 316,
+            "address": "ul. Grunwaldzka 31a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "93",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 317,
+            "address": "ul. Grunwaldzka 33a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "93",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 318,
+            "address": "ul. Grunwaldzka 29",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "93",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1960"
+        },
+        {
+            "id": 319,
+            "address": "ul. Brzeźnicka 2",
+            "lat": 52.390065,
+            "lng": 16.876398,
+            "personCount": "92",
+            "desc": "S.M. \"GRUNWALD\" schron nr 226 ak. 01.06.09r."
+        },
+        {
+            "id": 320,
+            "address": "ul. Żeromskiego Stefana 8/12",
+            "lat": 52.416679,
+            "lng": 16.892825,
+            "personCount": "92",
+            "desc": "Z.Sz.O. Nr 10 i VII LO i Gim. Dwujęzyczne kir. adm. p. M. Siwa te. 061 847 2502, dn. 07.05.09."
+        },
+        {
+            "id": 321,
+            "address": "ul. Wojskowa 11",
+            "lat": 52.403931,
+            "lng": 16.892207,
+            "personCount": "92",
+            "desc": "-"
+        },
+        {
+            "id": 321,
+            "address": "ul. Wojskowa 11",
+            "lat": 52.403931,
+            "lng": 16.892207,
+            "personCount": "92",
+            "desc": "-"
+        },
+        {
+            "id": 322,
+            "address": "ul. Sokoła 51",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "90",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 323,
+            "address": "pl. Wielkopolski 1",
+            "lat": 52.410334,
+            "lng": 16.930502,
+            "personCount": "90",
+            "desc": "-"
+        },
+        {
+            "id": 323,
+            "address": "pl. Wielkopolski 1",
+            "lat": 52.410334,
+            "lng": 16.930502,
+            "personCount": "90",
+            "desc": "-"
+        },
+        {
+            "id": 323,
+            "address": "pl. Wielkopolski 1",
+            "lat": 52.410334,
+            "lng": 16.930502,
+            "personCount": "90",
+            "desc": "-"
+        },
+        {
+            "id": 323,
+            "address": "pl. Wielkopolski 1",
+            "lat": 52.410334,
+            "lng": 16.930502,
+            "personCount": "90",
+            "desc": "-"
+        },
+        {
+            "id": 323,
+            "address": "pl. Wielkopolski 1",
+            "lat": 52.410334,
+            "lng": 16.930502,
+            "personCount": "90",
+            "desc": "-"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 324,
+            "address": "ul. Szczawnicka 1",
+            "lat": 52.4395,
+            "lng": 16.888406,
+            "personCount": "90",
+            "desc": "ukrycie przeciwlotnicze rok budowy 1943"
+        },
+        {
+            "id": 325,
+            "address": "ul. Rembertowska 42",
+            "lat": 52.384481,
+            "lng": 16.87082,
+            "personCount": "89",
+            "desc": "-"
+        },
+        {
+            "id": 326,
+            "address": "ul. Dąbrowskiego Jana Henryka 174/176",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "89",
+            "desc": "ul. Piękna"
+        },
+        {
+            "id": 327,
+            "address": "ul. Rycerska 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "88",
+            "desc": "MPGM rok budowy 1969"
+        },
+        {
+            "id": 328,
+            "address": "ul. Marszałkowska 3",
+            "lat": 52.398542,
+            "lng": 16.871592,
+            "personCount": "88",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 329,
+            "address": "ul. Mielżyńskiego Seweryna 14",
+            "lat": 52.408499,
+            "lng": 16.922153,
+            "personCount": "88",
+            "desc": "Okrąglak"
+        },
+        {
+            "id": 330,
+            "address": "ul. Marszałkowska 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "88",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 331,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "87",
+            "desc": "(hala 11)"
+        },
+        {
+            "id": 332,
+            "address": "ul. Kosińskiego Antoniego 27",
+            "lat": 52.388972,
+            "lng": 16.915823,
+            "personCount": "87",
+            "desc": "-"
+        },
+        {
+            "id": 333,
+            "address": "ul. Mielżyńskiego Seweryna 25",
+            "lat": 52.409028,
+            "lng": 16.922544,
+            "personCount": "86",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 334,
+            "address": "rynek Stary Rynek 46/47",
+            "lat": 52.40799,
+            "lng": 16.934576,
+            "personCount": "86",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 335,
+            "address": "ul. św. Rocha 4b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "86",
+            "desc": "Administracja Osiedle Piastowskie rok budowy 1961"
+        },
+        {
+            "id": 336,
+            "address": "ul. Krańcowa 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "86",
+            "desc": "(hala B-4)"
+        },
+        {
+            "id": 337,
+            "address": "ul. Limanowskiego Bolesława 23a",
+            "lat": 52.397635,
+            "lng": 16.896848,
+            "personCount": "85",
+            "desc": "Przedszkole nr 39 rok budowy 1958"
+        },
+        {
+            "id": 338,
+            "address": "ul. Działyńskich 9",
+            "lat": 52.411083,
+            "lng": 16.923994,
+            "personCount": "85",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 339,
+            "address": "ul. Gołębia 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "84",
+            "desc": "Ogólnokształąca Szkoła Baletowa im. O. Sławskiej-Lipczyńskiej tel. 061 852 4733 lub 858 5418 p. E. Machnicka, dn. 16.03.09."
+        },
+        {
+            "id": 340,
+            "address": "ul. Niedziałkowskiego Mieczysława 26",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "84",
+            "desc": "MPGM rok budowy 1950"
+        },
+        {
+            "id": 341,
+            "address": "ul. Dolna Wilda 72",
+            "lat": 52.390302,
+            "lng": 16.923157,
+            "personCount": "83",
+            "desc": "POWOGAZ"
+        },
+        {
+            "id": 342,
+            "address": "ul. Piękna 40",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "83",
+            "desc": "-"
+        },
+        {
+            "id": 343,
+            "address": "ul. Głogowska 63",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "82",
+            "desc": "-"
+        },
+        {
+            "id": 344,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "81",
+            "desc": "bud. 8"
+        },
+        {
+            "id": 345,
+            "address": "ul. Starołęcka 18a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "80",
+            "desc": "STOMILbud. 5"
+        },
+        {
+            "id": 346,
+            "address": "ul. Chwiałkowskiego Marcina 29",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 347,
+            "address": "pl. Wielkopolski 2",
+            "lat": 52.410666,
+            "lng": 16.93067,
+            "personCount": "80",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 348,
+            "address": "ul. Kosińskiego Antoniego 29",
+            "lat": 52.388934,
+            "lng": 16.916302,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 349,
+            "address": "ul. Żydowska 35",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "80",
+            "desc": "MPGM remont WZKiB U.M. Poznań w 2003 r."
+        },
+        {
+            "id": 350,
+            "address": "ul. Głuszyna 218a",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 351,
+            "address": "ul. Zeylanda Janusza 7",
+            "lat": 52.407151,
+            "lng": 16.90817,
+            "personCount": "80",
+            "desc": "W.M. B.O.M Nr 1 ul. Paszty 10, 60-579 Poznań"
+        },
+        {
+            "id": 352,
+            "address": "ul. Traugutta Romualda 11",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 353,
+            "address": "ul. Kasprzaka Marcina 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "80",
+            "desc": "S.M. \"GRUNWALD\" schron nr 229 ak. 01.06.09r."
+        },
+        {
+            "id": 354,
+            "address": "pl. Wielkopolski 3",
+            "lat": 52.410819,
+            "lng": 16.930748,
+            "personCount": "80",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 355,
+            "address": "pl. Wielkopolski 10/11e",
+            "lat": 52.410519,
+            "lng": 16.931919,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 356,
+            "address": "ul. Kanclerska 19",
+            "lat": 52.400344,
+            "lng": 16.870467,
+            "personCount": "80",
+            "desc": "-"
+        },
+        {
+            "id": 357,
+            "address": "ul. św. Michała 39/41",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "79",
+            "desc": "str. prawa"
+        },
+        {
+            "id": 358,
+            "address": "ul. Bukowska 100a",
+            "lat": 52.410164,
+            "lng": 16.882506,
+            "personCount": "78",
+            "desc": "-"
+        },
+        {
+            "id": 359,
+            "address": "ul. Kasprzaka Marcina 34",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "78",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 360,
+            "address": "ul. Bukowska 69",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "78",
+            "desc": "MPGM"
+        },
+        {
+            "id": 361,
+            "address": "ul. Szamotulska 90",
+            "lat": 52.41485,
+            "lng": 16.885846,
+            "personCount": "78",
+            "desc": "rok budowy 1959"
+        },
+        {
+            "id": 362,
+            "address": "ul. Grodziska 113",
+            "lat": 52.413349,
+            "lng": 16.886045,
+            "personCount": "77",
+            "desc": "dawny MOSTOSTAL rok budowy 1958"
+        },
+        {
+            "id": 363,
+            "address": "ul. Chłapowskiego Dezyderego 27",
+            "lat": 52.388134,
+            "lng": 16.919021,
+            "personCount": "77",
+            "desc": "-"
+        },
+        {
+            "id": 364,
+            "address": "ul. Bukowska 47a",
+            "lat": 52.409989,
+            "lng": 16.892084,
+            "personCount": "77",
+            "desc": "Przedszkole nr 47 rok budowy 1947"
+        },
+        {
+            "id": 365,
+            "address": "ul. Szamarzewskiego Augustyna 87",
+            "lat": 52.41344,
+            "lng": 16.885438,
+            "personCount": "77",
+            "desc": "dawny MOSTOSTAL rok budowy 1958"
+        },
+        {
+            "id": 366,
+            "address": "ul. Saperska 10",
+            "lat": 52.383356,
+            "lng": 16.91982,
+            "personCount": "76",
+            "desc": "-"
+        },
+        {
+            "id": 367,
+            "address": "ul. Ślusarska 14",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "76",
+            "desc": "MPGM rok budowy 1955"
+        },
+        {
+            "id": 368,
+            "address": "ul. Dolna Wilda 126",
+            "lat": 52.390302,
+            "lng": 16.923157,
+            "personCount": "75",
+            "desc": "Aquanet S.A. budowla ochronna (forteczna) z czasów pruskich tel. 603 610 795, 061 835 9136 p. Paweł Szydłowski 16.02.09."
+        },
+        {
+            "id": 369,
+            "address": "ul. Bukowska 74",
+            "lat": 52.409308,
+            "lng": 16.887797,
+            "personCount": "75",
+            "desc": "Aquanet S.A. bunkier rok budowy 1915"
+        },
+        {
+            "id": 369,
+            "address": "ul. Bukowska 74",
+            "lat": 52.409308,
+            "lng": 16.887797,
+            "personCount": "75",
+            "desc": "Aquanet S.A. bunkier rok budowy 1915"
+        },
+        {
+            "id": 370,
+            "address": "ul. Chłodna 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "74",
+            "desc": "S.M. \"GRUNWALD\" schron nr 227 ak. 01.06.09r."
+        },
+        {
+            "id": 371,
+            "address": "ul. Polska 57",
+            "lat": 52.42027,
+            "lng": 16.872418,
+            "personCount": "74",
+            "desc": "myjnia"
+        },
+        {
+            "id": 372,
+            "address": "ul. Ratajczaka 22",
+            "lat": 52.405278,
+            "lng": 16.924932,
+            "personCount": "73",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 373,
+            "address": "ul. Nowowiejskiego Feliksa 14a",
+            "lat": 52.410305,
+            "lng": 16.927454,
+            "personCount": "72",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 374,
+            "address": "ul. Głuszyna 212",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "71",
+            "desc": "-"
+        },
+        {
+            "id": 375,
+            "address": "ul. Łozowa 79a",
+            "lat": 52.365336,
+            "lng": 16.908635,
+            "personCount": "71",
+            "desc": "rok budowy 1960"
+        },
+        {
+            "id": 376,
+            "address": "ul. Głuszyna 210",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "71",
+            "desc": "-"
+        },
+        {
+            "id": 377,
+            "address": "ul. Głuszyna 226",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "71",
+            "desc": "-"
+        },
+        {
+            "id": 378,
+            "address": "ul. Bałtycka 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "71",
+            "desc": "dawny \"ZREMB\" rok budowy 1955"
+        },
+        {
+            "id": 379,
+            "address": "ul. Grottgera Artura 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "71",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 380,
+            "address": "ul. Chociszewskiego Józefa 18/20",
+            "lat": 52.392103,
+            "lng": 16.892122,
+            "personCount": "71",
+            "desc": "-"
+        },
+        {
+            "id": 381,
+            "address": "ul. Kościuszki Tadeusza 106",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "71",
+            "desc": "ukrycie pplot z czasów II wojny światowej, dawniej pętla trolejbusowa i stacja paliw CPN"
+        },
+        {
+            "id": 381,
+            "address": "ul. Kościuszki Tadeusza 106",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "71",
+            "desc": "ukrycie pplot z czasów II wojny światowej, dawniej pętla trolejbusowa i stacja paliw CPN"
+        },
+        {
+            "id": 382,
+            "address": "ul. Starołęcka 18",
+            "lat": 52.375521,
+            "lng": 16.937696,
+            "personCount": "70",
+            "desc": "bud. 9"
+        },
+        {
+            "id": 383,
+            "address": "ul. Górecka 102",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "70",
+            "desc": "-"
+        },
+        {
+            "id": 384,
+            "address": "ul. Starołęcka 57",
+            "lat": 52.367533,
+            "lng": 16.931265,
+            "personCount": "70",
+            "desc": "stara pętla MPK, ul. Książęca"
+        },
+        {
+            "id": 385,
+            "address": "ul. Kamiennogórska 22",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "70",
+            "desc": "Sąd Rejonowy rok budowy 1972"
+        },
+        {
+            "id": 386,
+            "address": "ul. Cześnikowska 4",
+            "lat": 52.399725,
+            "lng": 16.874414,
+            "personCount": "70",
+            "desc": "MPGM rok budowy 1961"
+        },
+        {
+            "id": 387,
+            "address": "ul. Knapowskiego Stanisława 25",
+            "lat": 52.383375,
+            "lng": 16.891928,
+            "personCount": "70",
+            "desc": "-"
+        },
+        {
+            "id": 388,
+            "address": "ul. Cześnikowska 1c",
+            "lat": 52.398655,
+            "lng": 16.873627,
+            "personCount": "70",
+            "desc": "-"
+        },
+        {
+            "id": 389,
+            "address": "ul. Głuszyna 208a",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "70",
+            "desc": "W.P."
+        },
+        {
+            "id": 390,
+            "address": "ul. Cześnikowska 2a",
+            "lat": 52.399428,
+            "lng": 16.874667,
+            "personCount": "70",
+            "desc": "MPGM rok budowy 1961"
+        },
+        {
+            "id": 391,
+            "address": "al. Marcinkowskiego Karola 11",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "70",
+            "desc": "ENERGOPOL-7 rok budowy 1959"
+        },
+        {
+            "id": 392,
+            "address": "ul. Chociszewskiego Józefa 22ab",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "70",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 393,
+            "address": "ul. Wojska Polskiego 18/20",
+            "lat": 52.425615,
+            "lng": 16.906445,
+            "personCount": "70",
+            "desc": "-"
+        },
+        {
+            "id": 394,
+            "address": "ul. Potworowskiego Gustawa 13",
+            "lat": 52.392327,
+            "lng": 16.894288,
+            "personCount": "68",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 395,
+            "address": "ul. Palacza Macieja 10",
+            "lat": 52.387799,
+            "lng": 16.889079,
+            "personCount": "68",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 396,
+            "address": "ul. Wielka 24/25d",
+            "lat": 52.408598,
+            "lng": 16.935751,
+            "personCount": "68",
+            "desc": "-"
+        },
+        {
+            "id": 397,
+            "address": "ul. Calliera Edmunda 8b",
+            "lat": 52.395152,
+            "lng": 16.904325,
+            "personCount": "68",
+            "desc": "ZNTK rok budowy 1958"
+        },
+        {
+            "id": 398,
+            "address": "ul. Strzecha 10a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "68",
+            "desc": "-"
+        },
+        {
+            "id": 399,
+            "address": "ul. Marszałkowska 14",
+            "lat": 52.399439,
+            "lng": 16.87083,
+            "personCount": "68",
+            "desc": "MPGM"
+        },
+        {
+            "id": 400,
+            "address": "ul. Winiarska 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "68",
+            "desc": "Instytut Technologi Drewna U.P. rok budowy 1959"
+        },
+        {
+            "id": 401,
+            "address": "ul. Szewska 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "68",
+            "desc": "RZGW rok budowy 1959"
+        },
+        {
+            "id": 402,
+            "address": "ul. Półwiejska 37",
+            "lat": 52.401478,
+            "lng": 16.928858,
+            "personCount": "67",
+            "desc": "S.M. \"GRUNWALD\" schron nr 263ak. 01.06.09r. - pusty tunel wyjściowy"
+        },
+        {
+            "id": 403,
+            "address": "ul. Wojska Polskiego 68b1",
+            "lat": 52.428573,
+            "lng": 16.897489,
+            "personCount": "67",
+            "desc": "bl.I"
+        },
+        {
+            "id": 404,
+            "address": "ul. Bałtycka 46",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "67",
+            "desc": "fort (nr 276)"
+        },
+        {
+            "id": 405,
+            "address": "ul. Głogowska 67",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "67",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 405,
+            "address": "ul. Głogowska 67",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "67",
+            "desc": "szczelina pplot. stała rok budowy 1943"
+        },
+        {
+            "id": 406,
+            "address": "ul. Gdyńska 31/33",
+            "lat": 52.428305,
+            "lng": 16.977265,
+            "personCount": "66",
+            "desc": "CENTRA"
+        },
+        {
+            "id": 407,
+            "address": "ul. 23 Lutego 29/33c",
+            "lat": 52.410498,
+            "lng": 16.92985,
+            "personCount": "65",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 408,
+            "address": "ul. św. Michała 50",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "64",
+            "desc": "rok budowy 1956"
+        },
+        {
+            "id": 409,
+            "address": "ul. Żelazna 23",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "64",
+            "desc": "-"
+        },
+        {
+            "id": 410,
+            "address": "ul. Konarskiego Stanisława 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "64",
+            "desc": "MPGM"
+        },
+        {
+            "id": 411,
+            "address": "ul. Piękna 36b",
+            "lat": 52.415696,
+            "lng": 16.876164,
+            "personCount": "63",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 412,
+            "address": "ul. Wojska Polskiego 68b2",
+            "lat": 52.428958,
+            "lng": 16.897328,
+            "personCount": "61",
+            "desc": "bl. II"
+        },
+        {
+            "id": 413,
+            "address": "ul. Wojska Polskiego 68b6",
+            "lat": 52.428811,
+            "lng": 16.898001,
+            "personCount": "61",
+            "desc": "bl. VI"
+        },
+        {
+            "id": 414,
+            "address": "ul. Długosza Jana 18a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "61",
+            "desc": "-"
+        },
+        {
+            "id": 415,
+            "address": "ul. Sokoła 39",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "61",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 416,
+            "address": "ul. Wojska Polskiego 53",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "61",
+            "desc": "Dom Młodzieży w Poznaniu Placówka Opie.-Wych. Towarzystwo Salezjańskie Inspektoria Św. Wojciecha, Dyr. ks. Leszek Zioła tel.061 847 3534"
+        },
+        {
+            "id": 417,
+            "address": "ul. Wojska Polskiego 68b4",
+            "lat": 52.429562,
+            "lng": 16.898065,
+            "personCount": "61",
+            "desc": "bl. IV"
+        },
+        {
+            "id": 418,
+            "address": "ul. Wojska Polskiego 68b5",
+            "lat": 52.4292,
+            "lng": 16.898252,
+            "personCount": "61",
+            "desc": "bl. V"
+        },
+        {
+            "id": 419,
+            "address": "ul. Wojska Polskiego 68b3",
+            "lat": 52.429349,
+            "lng": 16.897546,
+            "personCount": "61",
+            "desc": "bl. III"
+        },
+        {
+            "id": 420,
+            "address": "ul. Anonima Galla 18",
+            "lat": 52.413881,
+            "lng": 16.891886,
+            "personCount": "61",
+            "desc": "S.M. Laris rok budowy 1956"
+        },
+        {
+            "id": 421,
+            "address": "ul. Trzemeszeńska 12",
+            "lat": 52.412341,
+            "lng": 16.980785,
+            "personCount": "60",
+            "desc": "(przedszkole nr 45) rok budowy 1958"
+        },
+        {
+            "id": 422,
+            "address": "ul. Arciszewskiego Krzysztofa 5",
+            "lat": 52.392168,
+            "lng": 16.886182,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 423,
+            "address": "ul. Starołęcka 57",
+            "lat": 52.367533,
+            "lng": 16.931265,
+            "personCount": "60",
+            "desc": "za torami kolej., ul. Książęca"
+        },
+        {
+            "id": 424,
+            "address": "ul. Owsiana 17A",
+            "lat": 52.425011,
+            "lng": 16.921946,
+            "personCount": "60",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 425,
+            "address": "ul. Anonima Galla 21",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 426,
+            "address": "ul. Wojskowa 23",
+            "lat": 52.404814,
+            "lng": 16.892351,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 427,
+            "address": "ul. Szydłowska 41",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "60",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 428,
+            "address": "ul. Ślusarska 15",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 429,
+            "address": "ul. Koronna 1a",
+            "lat": 52.430436,
+            "lng": 16.914641,
+            "personCount": "60",
+            "desc": "GOPLANA S.A. rok budowy 1959"
+        },
+        {
+            "id": 430,
+            "address": "ul. Marcelińska 52",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 431,
+            "address": "ul. Ściegiennego Piotra 120",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "60",
+            "desc": "-"
+        },
+        {
+            "id": 432,
+            "address": "ul. Arciszewskiego Krzysztofa 1",
+            "lat": 52.392559,
+            "lng": 16.886274,
+            "personCount": "60",
+            "desc": "S.M. \"BLOK\" rok budowy 1961"
+        },
+        {
+            "id": 433,
+            "address": "ul. Dożynkowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "59",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 434,
+            "address": "ul. Szamotulska 92",
+            "lat": 52.415014,
+            "lng": 16.885942,
+            "personCount": "58",
+            "desc": "-"
+        },
+        {
+            "id": 435,
+            "address": "ul. Czechosłowacka 15",
+            "lat": 52.369318,
+            "lng": 16.911803,
+            "personCount": "58",
+            "desc": "rok budowy 1959"
+        },
+        {
+            "id": 436,
+            "address": "ul. Tomickiego Piotra 27",
+            "lat": 52.411918,
+            "lng": 16.961175,
+            "personCount": "57",
+            "desc": "-"
+        },
+        {
+            "id": 437,
+            "address": "ul. Działowa 18",
+            "lat": 52.412541,
+            "lng": 16.931305,
+            "personCount": "57",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 438,
+            "address": "ul. Tomickiego Piotra 29",
+            "lat": 52.412238,
+            "lng": 16.96115,
+            "personCount": "57",
+            "desc": "-"
+        },
+        {
+            "id": 439,
+            "address": "ul. Działowa 14",
+            "lat": 52.412263,
+            "lng": 16.931317,
+            "personCount": "57",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 440,
+            "address": "ul. Owsiana 32",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "57",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 441,
+            "address": "al. Niepodległości 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "57",
+            "desc": "PKP S.A. rok budowy 1912"
+        },
+        {
+            "id": 442,
+            "address": "ul. Działowa 10",
+            "lat": 52.41198,
+            "lng": 16.93137,
+            "personCount": "57",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 443,
+            "address": "ul. Dworcowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "56",
+            "desc": "(piwnice Dworca Gł. nr 2)"
+        },
+        {
+            "id": 444,
+            "address": "ul. Konarskiego Stanisława 28",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "56",
+            "desc": "S.M. POMET"
+        },
+        {
+            "id": 445,
+            "address": "ul. Marcelińska 24",
+            "lat": 52.405109,
+            "lng": 16.89284,
+            "personCount": "56",
+            "desc": "PGNiG rok budowy 1942"
+        },
+        {
+            "id": 445,
+            "address": "ul. Marcelińska 24",
+            "lat": 52.405109,
+            "lng": 16.89284,
+            "personCount": "56",
+            "desc": "PGNiG rok budowy 1942"
+        },
+        {
+            "id": 446,
+            "address": "ul. Konarskiego Stanisława 32",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "56",
+            "desc": "S.M. POMET rok budowy 1961"
+        },
+        {
+            "id": 447,
+            "address": "ul. Kolejowa 23",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "55",
+            "desc": "(budynek administracyjny) PKP"
+        },
+        {
+            "id": 448,
+            "address": "ul. Szamotulska 88",
+            "lat": 52.414613,
+            "lng": 16.885682,
+            "personCount": "55",
+            "desc": "MPGM rok budowy 1950"
+        },
+        {
+            "id": 449,
+            "address": "ul. Bonin 1a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "54",
+            "desc": "wykreślona spr.ZKB.II/5328-14/07 z dnia 23.03.2007r."
+        },
+        {
+            "id": 450,
+            "address": "ul. Kasprzaka Marcina 33",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "54",
+            "desc": "MPGM rok budowy 1948"
+        },
+        {
+            "id": 451,
+            "address": "ul. Topolowa 5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "54",
+            "desc": "-"
+        },
+        {
+            "id": 452,
+            "address": "ul. Cześnikowska 28",
+            "lat": 52.401886,
+            "lng": 16.8701,
+            "personCount": "54",
+            "desc": "W.M. rok budowy 1956"
+        },
+        {
+            "id": 453,
+            "address": "ul. Bukowska 67",
+            "lat": 52.410762,
+            "lng": 16.882835,
+            "personCount": "52",
+            "desc": "MPGM rok budowy 1960"
+        },
+        {
+            "id": 454,
+            "address": "ul. Gdańska 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "51",
+            "desc": "przy Ostrówku"
+        },
+        {
+            "id": 455,
+            "address": "ul. Składowa 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "51",
+            "desc": "(eksp. PKP) r.1941"
+        },
+        {
+            "id": 456,
+            "address": "ul. Strzelecka 39A",
+            "lat": 52.401601,
+            "lng": 16.934859,
+            "personCount": "50",
+            "desc": "(PSM Winogrady)"
+        },
+        {
+            "id": 457,
+            "address": "ul. Sczanieckiej Emilii 4",
+            "lat": 52.394289,
+            "lng": 16.897304,
+            "personCount": "50",
+            "desc": "obok garaży"
+        },
+        {
+            "id": 457,
+            "address": "ul. Sczanieckiej Emilii 4",
+            "lat": 52.394289,
+            "lng": 16.897304,
+            "personCount": "50",
+            "desc": "obok garaży"
+        },
+        {
+            "id": 458,
+            "address": "ul. Promienista 160",
+            "lat": 52.386714,
+            "lng": 16.86447,
+            "personCount": "50",
+            "desc": "(ukrycie pplot rok budowy 1943)"
+        },
+        {
+            "id": 458,
+            "address": "ul. Promienista 160",
+            "lat": 52.386714,
+            "lng": 16.86447,
+            "personCount": "50",
+            "desc": "(ukrycie pplot rok budowy 1943)"
+        },
+        {
+            "id": 459,
+            "address": "ul. Woźna 11",
+            "lat": 52.407981,
+            "lng": 16.937206,
+            "personCount": "50",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 460,
+            "address": "ul. Niegolewskich Andrzeja i Władysława 10",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "-"
+        },
+        {
+            "id": 461,
+            "address": "ul. Dąbrowskiego Jana Henryka 77",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "-"
+        },
+        {
+            "id": 462,
+            "address": "ul. Chociszewskiego Józefa 24ab",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "MPGM rok budowy 1963"
+        },
+        {
+            "id": 463,
+            "address": "ul. Grunwaldzka 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "Centrum Zarządzania Bezpieczeństwem Wydział Regionalny Poczta Polska p. J. Kubanek tel. 061 869 7525, dn. 16.03.09."
+        },
+        {
+            "id": 464,
+            "address": "ul. Leszczyńska 19",
+            "lat": 52.376283,
+            "lng": 16.879288,
+            "personCount": "50",
+            "desc": "(schr.fort.)"
+        },
+        {
+            "id": 464,
+            "address": "ul. Leszczyńska 19",
+            "lat": 52.376283,
+            "lng": 16.879288,
+            "personCount": "50",
+            "desc": "(schr.fort.)"
+        },
+        {
+            "id": 465,
+            "address": "ul. Grunwaldzka 85d",
+            "lat": 52.398874,
+            "lng": 16.873376,
+            "personCount": "50",
+            "desc": "W.M. rok budowy 1960"
+        },
+        {
+            "id": 466,
+            "address": "ul. Głogowska 61",
+            "lat": 52.387078,
+            "lng": 16.891251,
+            "personCount": "50",
+            "desc": "ENERGOPOL rok budowy 1955/56"
+        },
+        {
+            "id": 467,
+            "address": "ul. Stalowa 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "ZNTK rok budowy 1958"
+        },
+        {
+            "id": 468,
+            "address": "ul. Żupańskiego Jana 9",
+            "lat": 52.395958,
+            "lng": 16.919865,
+            "personCount": "50",
+            "desc": "W.M. rok budowy 1960"
+        },
+        {
+            "id": 469,
+            "address": "ul. Kościuszki Tadeusza 77",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "Poczta Polska rok budowy 1900"
+        },
+        {
+            "id": 470,
+            "address": "ul. Leszczyńska 171",
+            "lat": 52.360504,
+            "lng": 16.880817,
+            "personCount": "50",
+            "desc": "-"
+        },
+        {
+            "id": 471,
+            "address": "ul. Paderewskiego Ignacego 3/5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "50",
+            "desc": "MPGM rok budowy 1957, administrator \"Presiz Nieruchomości Sp z o.o. \" pismo nr sprawy ZKB-I.5563.19.2014 z dnia 13.01.2015 r. informująca o likwidacji szybu ewakuacyjnego, zaspawaniu drzwi metalowych."
+        },
+        {
+            "id": 472,
+            "address": "ul. Heweliusza 4/6",
+            "lat": 52.394388,
+            "lng": 16.873122,
+            "personCount": "49",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 473,
+            "address": "ul. Przybyszewskiego Stanisława 8",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "47",
+            "desc": "-"
+        },
+        {
+            "id": 474,
+            "address": "ul. Sokoła 57",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "47",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 475,
+            "address": "ul. Dworcowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "46",
+            "desc": "P-ń Gł. PKP"
+        },
+        {
+            "id": 476,
+            "address": "ul. Żelazna 17",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "45",
+            "desc": "-"
+        },
+        {
+            "id": 477,
+            "address": "ul. Wojska Polskiego 52",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "45",
+            "desc": "kotłownia"
+        },
+        {
+            "id": 478,
+            "address": "al. Wielkopolska 39",
+            "lat": 52.418686,
+            "lng": 16.913109,
+            "personCount": "45",
+            "desc": "nap. bud.39"
+        },
+        {
+            "id": 479,
+            "address": "ul. Marszałkowska 10A",
+            "lat": 52.39924,
+            "lng": 16.871761,
+            "personCount": "45",
+            "desc": "MPGM rok budowy 1956"
+        },
+        {
+            "id": 480,
+            "address": "ul. Żelazna 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "45",
+            "desc": "-"
+        },
+        {
+            "id": 481,
+            "address": "ul. Międzychodzka 4b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "45",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 482,
+            "address": "ul. św. Wawrzyńca 11",
+            "lat": 52.417648,
+            "lng": 16.904046,
+            "personCount": "45",
+            "desc": "JUTRZENKA S.A. - BUDOWLA OCHRONNA ZLIKWIDOWANA w 2007 r."
+        },
+        {
+            "id": 483,
+            "address": "ul. Wawrzyniaka Piotra 39",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "44",
+            "desc": "Zakłady Graficzne rok budowy 1896"
+        },
+        {
+            "id": 484,
+            "address": "ul. Dąbrowskiego Jana Henryka 20/22",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "44",
+            "desc": "-"
+        },
+        {
+            "id": 485,
+            "address": "ul. Węgorka Władysława 20",
+            "lat": 52.395557,
+            "lng": 16.85381,
+            "personCount": "43",
+            "desc": "Instytut Ochrony Roslin rok budowy 1958"
+        },
+        {
+            "id": 486,
+            "address": "ul. Głuszyna 216a",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "43",
+            "desc": "-"
+        },
+        {
+            "id": 487,
+            "address": "ul. Żelazna 18a",
+            "lat": 52.39028,
+            "lng": 17.001236,
+            "personCount": "43",
+            "desc": "-"
+        },
+        {
+            "id": 488,
+            "address": "ul. Dworcowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "42",
+            "desc": "(schron nr 3)"
+        },
+        {
+            "id": 489,
+            "address": "ul. Parkowa 3a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "42",
+            "desc": "-"
+        },
+        {
+            "id": 490,
+            "address": "ul. Żeromskiego Stefana 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "42",
+            "desc": "-"
+        },
+        {
+            "id": 491,
+            "address": "ul. Dojazd 6",
+            "lat": 52.429858,
+            "lng": 16.89731,
+            "personCount": "41",
+            "desc": "-"
+        },
+        {
+            "id": 492,
+            "address": "ul. Szamotulska 51a",
+            "lat": 52.411307,
+            "lng": 16.883031,
+            "personCount": "41",
+            "desc": "Spółdzielnia Inwalidów rok budowy 1957"
+        },
+        {
+            "id": 493,
+            "address": "ul. Potockiej Klaudyny 31",
+            "lat": 52.390915,
+            "lng": 16.898074,
+            "personCount": "41",
+            "desc": "-"
+        },
+        {
+            "id": 494,
+            "address": "ul. Cześnikowska 7",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "41",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 495,
+            "address": "ul. Konarskiego Stanisława 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 496,
+            "address": "ul. Opalenicka 65",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 497,
+            "address": "ul. Bukowska 156",
+            "lat": 52.410317,
+            "lng": 16.862908,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 498,
+            "address": "ul. Działyńskich 4/5",
+            "lat": 52.411587,
+            "lng": 16.924363,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 499,
+            "address": "ul. Marszałkowska 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 500,
+            "address": "ul. Wilczak 49",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "150m od ul. Hawelańskiej"
+        },
+        {
+            "id": 501,
+            "address": "ul. Swarożyca 11",
+            "lat": 52.447123,
+            "lng": 16.937403,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 502,
+            "address": "os. Wichrowe Wzgórze 13",
+            "lat": 52.441476,
+            "lng": 16.940014,
+            "personCount": "40",
+            "desc": "ul. Lechicka/Murawa"
+        },
+        {
+            "id": 503,
+            "address": "ul. Szamarzewskiego Augustyna 44e",
+            "lat": 52.411317,
+            "lng": 16.894009,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 504,
+            "address": "ul. Umińskiego Jana 26",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "ul. Umińskiego-Garczyńskiego"
+        },
+        {
+            "id": 505,
+            "address": "ul. Rolna 70",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "ul. Wspólna - Rolna"
+        },
+        {
+            "id": 506,
+            "address": "ul. Kościelna 50",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 507,
+            "address": "ul. Nad Wierzbakiem 2",
+            "lat": 52.418801,
+            "lng": 16.908068,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 508,
+            "address": "ul. Mazowiecka 43",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 509,
+            "address": "ul. Matyi Stanisława 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "(vis a vis dworca PKS)"
+        },
+        {
+            "id": 510,
+            "address": "ul. Podstolińska 8",
+            "lat": 52.399844,
+            "lng": 16.872227,
+            "personCount": "40",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 511,
+            "address": "ul. Strzeszyńska 27",
+            "lat": 52.444837,
+            "lng": 16.901023,
+            "personCount": "40",
+            "desc": "Fort VI Tietzen (1879-83) lub (1877-81), fortyfikacja pruska, były magazyn amunicji WP; ul. Lutycka"
+        },
+        {
+            "id": 512,
+            "address": "ul. Długosza Jana 2a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "A.O. Jezyce"
+        },
+        {
+            "id": 513,
+            "address": "ul. Starołęcka 42",
+            "lat": 52.369437,
+            "lng": 16.932465,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 514,
+            "address": "ul. Bolkowicka 5",
+            "lat": 52.394162,
+            "lng": 16.862112,
+            "personCount": "40",
+            "desc": "schr.fort."
+        },
+        {
+            "id": 515,
+            "address": "ul. Głuszyna 216",
+            "lat": 52.311945,
+            "lng": 16.975493,
+            "personCount": "40",
+            "desc": "W.P."
+        },
+        {
+            "id": 516,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 52.380168,
+            "lng": 16.910546,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 517,
+            "address": "ul. Mogileńska 27",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "vis a vis nr 27"
+        },
+        {
+            "id": 518,
+            "address": "ul. Wałbrzyska 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "Fort VII A Strotha (1887/90) - fortyfikacje pruskie obiekt prywatny"
+        },
+        {
+            "id": 519,
+            "address": "ul. Jackowskiego Maksymiliana 51",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 520,
+            "address": "ul. Kościelna 30",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "-"
+        },
+        {
+            "id": 521,
+            "address": "ul. Działowa 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "40",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 522,
+            "address": "ul. Działowa 6",
+            "lat": 52.411723,
+            "lng": 16.931406,
+            "personCount": "40",
+            "desc": "MPGM rok budowy 1954"
+        },
+        {
+            "id": 523,
+            "address": "ul. 28 Czerwca 1956 r. 216",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "37",
+            "desc": "S.K.S. H .Cegielski"
+        },
+        {
+            "id": 524,
+            "address": "ul. Piaskowa 4/5",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "36",
+            "desc": "dawne Poznańskie Zakłady Papiernicze rok budowy 1956 - budowla ochronna zlikwidowana w 2007 r. obiekt przejęty przez Sąd Okręgowy w Poznaniu al. Marcinkowskiego 32 60-967 Pozna"
+        },
+        {
+            "id": 525,
+            "address": "ul. Wołkowyska 26",
+            "lat": 52.398402,
+            "lng": 16.969926,
+            "personCount": "36",
+            "desc": "-"
+        },
+        {
+            "id": 526,
+            "address": "ul. Piłsudskiego Józefa 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "35",
+            "desc": "-"
+        },
+        {
+            "id": 527,
+            "address": "ul. Sokoła 45",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "35",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 528,
+            "address": "ul. Wzgórze św. Wojciecha 1",
+            "lat": 52.413615,
+            "lng": 16.932278,
+            "personCount": "34",
+            "desc": "(v a v Kościoła)"
+        },
+        {
+            "id": 529,
+            "address": "ul. Jackowskiego Maksymiliana 44",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "34",
+            "desc": "-"
+        },
+        {
+            "id": 530,
+            "address": "pl. Podstolińska 4",
+            "lat": 52.399473,
+            "lng": 16.871949,
+            "personCount": "33",
+            "desc": "S.M. \"GRUNWALD\" rok budowy 1961"
+        },
+        {
+            "id": 531,
+            "address": "ul. Kolejowa 30",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "budynek mieszkalny PKP"
+        },
+        {
+            "id": 532,
+            "address": "ul. Kutnowska 2",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "(skwer)"
+        },
+        {
+            "id": 533,
+            "address": "ul. Piastowska 40",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "schron bierny"
+        },
+        {
+            "id": 534,
+            "address": "ul. Grunwaldzka 55b4",
+            "lat": 52.401486,
+            "lng": 16.883367,
+            "personCount": "30",
+            "desc": "bezwarościowy"
+        },
+        {
+            "id": 535,
+            "address": "ul. Fredry Aleksandra 8b",
+            "lat": 52.410149,
+            "lng": 16.916178,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 536,
+            "address": "ul. Tomickiego Piotra 9",
+            "lat": 52.410278,
+            "lng": 16.960514,
+            "personCount": "30",
+            "desc": "ul. Warszawska"
+        },
+        {
+            "id": 537,
+            "address": "ul. Senatorska 15",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 538,
+            "address": "os. Zwycięstwa 7",
+            "lat": 52.442168,
+            "lng": 16.927977,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 539,
+            "address": "ul. Powstańców Wielkopolskich 20",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "obiekt prywatny - KAWIARNIA; park - Fort Colomb"
+        },
+        {
+            "id": 540,
+            "address": "ul. Tęczowa 24",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 541,
+            "address": "ul. Hawelańska 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "(schr. fort. nr 175)"
+        },
+        {
+            "id": 542,
+            "address": "ul. Darzyborska 8",
+            "lat": 52.387374,
+            "lng": 17.029751,
+            "personCount": "30",
+            "desc": "ul. Gdyńska"
+        },
+        {
+            "id": 542,
+            "address": "ul. Darzyborska 8",
+            "lat": 52.387374,
+            "lng": 17.029751,
+            "personCount": "30",
+            "desc": "ul. Gdyńska"
+        },
+        {
+            "id": 543,
+            "address": "ul. Golęcińska 9",
+            "lat": 52.433268,
+            "lng": 16.880887,
+            "personCount": "30",
+            "desc": "Fort VI A Stockhausen (1879-82), fortyfikacja pruska, zdewastowany; ul. Lutycka"
+        },
+        {
+            "id": 544,
+            "address": "os. Dębina 20b",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "schron fortyfikacyjny"
+        },
+        {
+            "id": 545,
+            "address": "ul. Fredry Aleksandra 9",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "al. Niepodległości-Fredry"
+        },
+        {
+            "id": 546,
+            "address": "al. Niepodległości 18",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 547,
+            "address": "ul. Orężna 6",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 548,
+            "address": "ul. Darzyborska 6",
+            "lat": 52.387141,
+            "lng": 17.030618,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 549,
+            "address": "ul. Bluszczowa 7",
+            "lat": 52.376713,
+            "lng": 16.908619,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 550,
+            "address": "ul. Pilicka 7a",
+            "lat": 52.422819,
+            "lng": 16.872129,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 551,
+            "address": "al. Niepodległości 18",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "za Operą"
+        },
+        {
+            "id": 552,
+            "address": "ul. Gajowa 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 553,
+            "address": "ul. Promienista 3",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 554,
+            "address": "ul. Kolejowa 22",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "PKP rok budowy 1941"
+        },
+        {
+            "id": 555,
+            "address": "ul. Hetmańska 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 556,
+            "address": "ul. Wyspiańskiego Stanisława 45",
+            "lat": 52.399708,
+            "lng": 16.890352,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 557,
+            "address": "ul. Pogodna 14",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 558,
+            "address": "ul. Pogodna 26",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 559,
+            "address": "ul. Chlebowa 12",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "(przedszkole) Beiersdorf-Lechia S.A. rok budowy 1943"
+        },
+        {
+            "id": 560,
+            "address": "ul. Darzyborska 4",
+            "lat": 52.386992,
+            "lng": 17.030857,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 561,
+            "address": "ul. Świętogórska 3",
+            "lat": 52.384447,
+            "lng": 16.881159,
+            "personCount": "30",
+            "desc": "ul. Częstochowska"
+        },
+        {
+            "id": 562,
+            "address": "ul. św. Czesława 1",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 563,
+            "address": "ul. Grochowska 25b",
+            "lat": 52.396667,
+            "lng": 16.879662,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 564,
+            "address": "ul. Krysiewicza Bolesława 6",
+            "lat": 52.404106,
+            "lng": 16.929304,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 565,
+            "address": "ul. Łukaszewicza Józefa 35d",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 566,
+            "address": "ul. Grochowska 49",
+            "lat": 52.399605,
+            "lng": 16.87561,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 567,
+            "address": "ul. Łozowa 31",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 568,
+            "address": "pl. Asnyka Adama 1",
+            "lat": 52.410549,
+            "lng": 16.906641,
+            "personCount": "30",
+            "desc": "skwer im. Adama Asnyka"
+        },
+        {
+            "id": 569,
+            "address": "ul. Engestroema Wawrzyńca 4",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "B.O. w budynku stacji przekaźnikowej TP S.A. stan techniczny dobry, dn.14.07.08."
+        },
+        {
+            "id": 570,
+            "address": "ul. Darzyborska 1",
+            "lat": 52.386744,
+            "lng": 17.031239,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 571,
+            "address": "ul. Jackowskiego Maksymiliana 24",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 572,
+            "address": "ul. Grunwaldzka 59",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 573,
+            "address": "ul. Zamkowa 1/2",
+            "lat": 52.409188,
+            "lng": 16.932005,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 574,
+            "address": "ul. 28 Czerwca 1956 r. 113",
+            "lat": 52.392953,
+            "lng": 16.920819,
+            "personCount": "30",
+            "desc": "-"
+        },
+        {
+            "id": 575,
+            "address": "ul. Kasprzaka Marcina 57",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "28",
+            "desc": "-"
+        },
+        {
+            "id": 576,
+            "address": "ul. Winogrady 31",
+            "lat": 52.423601,
+            "lng": 16.924836,
+            "personCount": "27",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 577,
+            "address": "ul. Zbożowa 16",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "27",
+            "desc": "MPGM rok budowy 1958"
+        },
+        {
+            "id": 578,
+            "address": "ul. Sowińskiego Józefa 40",
+            "lat": 52.397368,
+            "lng": 16.876487,
+            "personCount": "27",
+            "desc": "S.Inwalidów. Inplast rok budowy 1958"
+        },
+        {
+            "id": 579,
+            "address": "ul. Winogrady 35",
+            "lat": 52.423777,
+            "lng": 16.925042,
+            "personCount": "27",
+            "desc": "P.S.M. Winogrady"
+        },
+        {
+            "id": 580,
+            "address": "ul. Grunwaldzka 87b",
+            "lat": 52.398486,
+            "lng": 16.873031,
+            "personCount": "25",
+            "desc": "MPGM rok budowy 1957"
+        },
+        {
+            "id": 581,
+            "address": "ul. Sowińskiego Józefa 34",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "24",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 582,
+            "address": "ul. Chociszewskiego Józefa 16",
+            "lat": 52.391956,
+            "lng": 16.89258,
+            "personCount": "24",
+            "desc": "dawny MOSTOSTAL W.M. rok budowy 1960"
+        },
+        {
+            "id": 583,
+            "address": "ul. Wiśniowa 13",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "21",
+            "desc": "Aquanet"
+        },
+        {
+            "id": 584,
+            "address": "ul. Dolna Wilda 126",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "21",
+            "desc": "Aquanet S.A. budowla ochronna z czasów II wojny światowej tel. 603 610 795, 061 835 9136 p. Paweł Szydłowski 16.02.09."
+        },
+        {
+            "id": 585,
+            "address": "ul. Karpia 22a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "20",
+            "desc": "2 nadbudowane wejścia"
+        },
+        {
+            "id": 585,
+            "address": "ul. Karpia 22a",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "20",
+            "desc": "2 nadbudowane wejścia"
+        },
+        {
+            "id": 586,
+            "address": "pl. Bernardyński 1",
+            "lat": 52.404033,
+            "lng": 16.936227,
+            "personCount": "20",
+            "desc": "-"
+        },
+        {
+            "id": 587,
+            "address": "ul. Karpia 4",
+            "lat": 52.444949,
+            "lng": 16.947555,
+            "personCount": "20",
+            "desc": "-"
+        },
+        {
+            "id": 588,
+            "address": "ul. Chwaliszewo 15/16",
+            "lat": 52.409093,
+            "lng": 16.942337,
+            "personCount": "20",
+            "desc": "dawne Przedsiębiorstwo Przemysłu Chłodniczego rok budowy 1956"
+        },
+        {
+            "id": 589,
+            "address": "ul. Marcelińska 18",
+            "lat": 52.405061,
+            "lng": 16.893962,
+            "personCount": "19",
+            "desc": "-"
+        },
+        {
+            "id": 590,
+            "address": "ul. Sowińskiego Józefa 30",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "18",
+            "desc": "MPGM rok budowy 1959"
+        },
+        {
+            "id": 591,
+            "address": "ul. Szamotulska 49",
+            "lat": 52.410908,
+            "lng": 16.883481,
+            "personCount": "18",
+            "desc": "-"
+        },
+        {
+            "id": 592,
+            "address": "ul. Bułgarska 67",
+            "lat": 0,
+            "lng": 0,
+            "personCount": "18",
+            "desc": "byłe Wielkopolskie Zakłady Teletechniczne TELETRA"
+        },
+        {
+            "id": 593,
+            "address": "ul. 28 Czerwca 1956 r. 223/229",
+            "lat": 52.380168,
+            "lng": 16.910546,
+            "personCount": "10",
+            "desc": "H. Cegielski budynek administracyjny rok budowy 1961"
+        }
+    ]
+}

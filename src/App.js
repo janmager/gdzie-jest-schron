@@ -76,7 +76,7 @@ function App() {
     <Container fluid className="px-0" style={allApp}>
       <Container fluid className="px-0" style={{minHeight: '100%'}}>
         <NavbarMain />
-        <Container className="mt-5" style={{minHeight: '100%'}}>
+        <Container className="mt-3" fluid style={{minHeight: '100%'}}>
           <Switch>
             <Route path="/" component={Home} exact />
             <Route path="/map" component={Map} />
