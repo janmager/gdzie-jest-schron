@@ -20,9 +20,16 @@ L.Icon.Default.mergeOptions({
 
 export default function Map() {
     const position = [52.4065883, 16.9285973]
+    const [countShelters, setCountShelters] = useState()
 
     useEffect(() => {
-        
+        let counter = 0;
+        shelters.sheltersPoznan.map(shelter => {
+            if(shelter.lat != 0 && shelter.lng != 0){
+                counter++;
+            }
+        })
+        setCountShelters(counter)
     }, [])
 
     return (
@@ -33,7 +40,7 @@ export default function Map() {
                         shelters.sheltersPoznan.map(shelter => {
                             if(shelter.lat != 0 && shelter.lng != 0){
                                 return(
-                                    <Marker position={[shelter.lat, shelter.lng]}>
+                                    <Marker key={shelter.id} position={[shelter.lat, shelter.lng]}>
                                         <Popup>
                                             {shelter.address}<br/>
                                             dodatkowe info: <span style={{opacity: '0.6'}}>{shelter.desc}</span>
@@ -48,6 +55,7 @@ export default function Map() {
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
                 </MapContainer>
+                Liczba schronów w bazie danych: {countShelters}
             </Col>
         </Row>
     )
