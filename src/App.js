@@ -9,7 +9,12 @@ import Footer from './components/Footer/Footer'
 import Shelter from './pages/List/Shelter/Shelter';
 
 import { Container } from 'react-bootstrap'
-import { Route, Switch } from 'react-router-dom'
+import { Route, Switch, withRouter } from 'react-router-dom'
+
+import ReactGA from 'react-ga';
+
+const TRACKING_ID = process.env.REACT_APP_GA_TRACKING_CODE;
+ReactGA.initialize(TRACKING_ID);
 
 function App() {
   let allApp = {
@@ -39,4 +44,4 @@ function App() {
   );
 }
 
-export default App;
+export default withRouter(App);
