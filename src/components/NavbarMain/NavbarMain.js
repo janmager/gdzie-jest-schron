@@ -16,7 +16,7 @@ export default function NavbarMain() {
   return (
     <Navbar bg="dark" variant='dark' expand="lg" style={nav}>
       <Container>
-        <Navbar.Brand as={NavLink} to="/">GdzieJestSchron.pl</Navbar.Brand>
+        <Navbar.Brand as={NavLink} to="/">ZnajdzSchron.pl</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0">
