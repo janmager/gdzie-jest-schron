@@ -7,8 +7,7 @@ export default function Home() {
     <Container>
       <Row>
         <Col xs={12} className="mt-5">
-          <p>Interaktywna mapa schronów na terenie Poznania.<br />
-          Źródło danych: <a href="http://sip.geopoz.pl/sip/wzkb/bezpieczenstwo">www.sip.geopoz.pl</a></p>
+          <p>Interaktywna mapa schronów na terenie Poznania.</p>
         </Col>
       </Row>
     </Container>

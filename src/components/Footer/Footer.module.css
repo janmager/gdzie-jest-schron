@@ -8,12 +8,21 @@
     color: inherit;
     opacity: .5;
     transition: .25s;
+} 
+
+.footerLeft span a{
+    opacity: 1;
 }
 
-.footerLeft a:hover{
-    transition: .25s;
+.footerLeft span{
+    margin-left: 20px;
+    opacity: .5;
+}
+
+.footerLeft span a:hover, .footerLeft a:hover{
     opacity: .9;
-    color: inherit; 
+    transition: .25s;
+    color: inherit
 }
 
 .footerLeft a:last-of-type{

@@ -22,14 +22,11 @@ export default function Footer() {
                 <Row>
                     <Col xs={12} sm={6} className={style.footerLeft}>
                         <a href="#">
-                            <FontAwesomeIcon icon={faFacebookF} />
-                        </a>
-                        <a href="#">
-                            <FontAwesomeIcon icon={faInstagram} />
-                        </a>
-                        <a href="#">
                             <FontAwesomeIcon icon={faTwitter} />
                         </a>
+                        <span>
+                            Źródło danych: <a href="http://sip.geopoz.pl/sip/wzkb/bezpieczenstwo">www.sip.geopoz.pl</a>
+                        </span>  
                     </Col>
                     <Col xs={12} sm={6} className={style.footerRight}>2022 &copy; gdziejestschron.pl</Col>
                 </Row>
