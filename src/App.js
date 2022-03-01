@@ -7,6 +7,7 @@ import Map from './pages/Map/Map'
 import List from './pages/List/List'
 import Footer from './components/Footer/Footer'
 import Shelter from './pages/List/Shelter/Shelter';
+import Search from './pages/List/Search/Search'
 
 import { Container } from 'react-bootstrap'
 import { Route, Switch, withRouter } from 'react-router-dom'
@@ -40,6 +41,7 @@ function App() {
             <Route path="/lista" component={List} />
             <Route path="/faq" component={Faq} />
             <Route path="/schron/:id" component={Shelter} />
+            <Route path="/szukaj/:searched" component={Search} />
           </Switch>
       </Container>
       <Footer />
