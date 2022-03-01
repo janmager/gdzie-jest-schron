@@ -1,5 +1,7 @@
 import './App.css';
 
+import React, { useState, useEffect } from 'react'
+
 import NavbarMain from './components/NavbarMain/NavbarMain'
 import Home from './pages/Home/Home'
 import Faq from './pages/Faq/Faq'
@@ -8,6 +10,8 @@ import List from './pages/List/List'
 import Footer from './components/Footer/Footer'
 import Shelter from './pages/List/Shelter/Shelter';
 import Search from './pages/List/Search/Search'
+
+import shelters from './assets/shelters.json'
 
 import { Container } from 'react-bootstrap'
 import { Route, Switch, withRouter } from 'react-router-dom'
@@ -18,6 +22,27 @@ const TRACKING_ID = 'UA-51521950-21';
 ReactGA.initialize(TRACKING_ID);
 
 function App() {
+  const [ sheltersDB, setSheltersDB ] = useState(shelters)
+  const [ filterPeopleCountFrom, setFilterPeopleCountFrom ] = useState(null)
+  const [ filterPeopleCountTo, setFilterPeopleCountTo ] = useState(null)
+
+  useEffect(() => {
+    console.log('changed')
+    let tempShelters = []
+    shelters.map(shelter => {
+      if(
+        (shelter.people_count >= filterPeopleCountFrom && shelter.people_count <= filterPeopleCountTo)
+        ||
+        (shelter.people_count >= filterPeopleCountFrom && null == filterPeopleCountTo)
+        ||
+        (null == filterPeopleCountFrom && shelter.people_count <= filterPeopleCountTo)
+      ){
+        tempShelters.push(shelter)
+      }
+    })
+    setSheltersDB(tempShelters)
+  }, [filterPeopleCountFrom, filterPeopleCountTo])
+
   let windowLocation = window.location.pathname;
   ReactGA.pageview(windowLocation + window.location.search);
 
@@ -37,8 +62,24 @@ function App() {
         <NavbarMain />
           <Switch>
             <Route path="/" component={Home} exact />
-            <Route path="/mapa" component={Map} />
-            <Route path="/lista" component={List} />
+            <Route path="/mapa">
+              <Map 
+                shelters={sheltersDB} 
+                setFilterPeopleCountFrom={setFilterPeopleCountFrom}
+                setFilterPeopleCountTo={setFilterPeopleCountTo}
+                filterPeopleCountFrom={filterPeopleCountFrom}
+                filterPeopleCountTo={filterPeopleCountTo}
+              />
+            </Route>
+            <Route path="/lista">
+              <List 
+                shelters={sheltersDB} 
+                setFilterPeopleCountFrom={setFilterPeopleCountFrom}
+                setFilterPeopleCountTo={setFilterPeopleCountTo}
+                filterPeopleCountFrom={filterPeopleCountFrom}
+                filterPeopleCountTo={filterPeopleCountTo}
+              />
+            </Route>
             <Route path="/faq" component={Faq} />
             <Route path="/schron/:id" component={Shelter} />
             <Route path="/szukaj/:searched" component={Search} />

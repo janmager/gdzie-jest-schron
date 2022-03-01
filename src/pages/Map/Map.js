@@ -7,10 +7,9 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
 import style from './Map.module.css'
 
-import shelters from '../../assets/shelters.json'
-
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
+import Filters from '../../components/Filters/Filters'
 
 delete L.Icon.Default.prototype._getIconUrl;
 
@@ -20,12 +19,18 @@ L.Icon.Default.mergeOptions({
     shadowUrl: require('leaflet/dist/images/marker-shadow.png')
 });
 
-export default function Map() {
+export default function Map({shelters, setFilterPeopleCountFrom, setFilterPeopleCountTo, filterPeopleCountFrom, filterPeopleCountTo}) {
     const position = [52.4065883, 16.9285973]
 
     return (
         <Container style={{height: '100%', minHeight: '100%'}}>
             <Row style={{height: '100%'}}>
+                <Filters
+                setFilterPeopleCountFrom={setFilterPeopleCountFrom}
+                setFilterPeopleCountTo={setFilterPeopleCountTo}
+                filterPeopleCountFrom={filterPeopleCountFrom}
+                filterPeopleCountTo={filterPeopleCountTo}
+                />
                 <Col xs={12} className={style.mapWrapper}>
                     <MapContainer center={position} zoom={13} className={style.map}>
                         {

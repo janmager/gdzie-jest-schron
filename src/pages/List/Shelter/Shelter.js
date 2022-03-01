@@ -29,7 +29,7 @@ export default function Shelter() {
                 </Col>
                 <Col xs={12} md={6} className="mt-3">
                     <Card className={style.shelterInfoBox}>
-                        <Card.Header className="text-white bg-dark">
+                        <Card.Header className="bg-light">
                             Schron nr.{shelters[id-1].id}
                         </Card.Header>
                         <Card.Body className={style.shelterBody}>
@@ -49,11 +49,11 @@ export default function Shelter() {
                 </Col>
                 <Col xs={12} md={6} className="mt-3">
                     <Card>
-                        <Card.Header className="text-white bg-dark">
+                        <Card.Header className="bg-light">
                             Mapka poglądowa
                         </Card.Header>
                         <Card.Body>
-                            <MapContainer scrollWheelZoom={false} zoomControl={false} dragging={false} doubleClickZoom={false} touchZoom={false} center={[shelters[id-1].lat, shelters[id-1].lng]} zoom={13} style={{height: '100%', minHeight: '450px'}}>
+                            <MapContainer zoomControl={false} center={[shelters[id-1].lat, shelters[id-1].lng]} zoom={16} style={{height: '100%', minHeight: '450px'}}>
                                 <Marker key={shelters[id-1].id} position={[shelters[id-1].lat, shelters[id-1].lng]} />
                                 <TileLayer
                                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

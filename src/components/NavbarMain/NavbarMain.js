@@ -16,6 +16,7 @@ export default function NavbarMain() {
   function handleSubmit(e){
     e.preventDefault()
     history.push(`/szukaj/${search}`)
+    setSearch('')
     setExpanded(false)
   }
 
@@ -41,6 +42,7 @@ export default function NavbarMain() {
               placeholder="Wyszukaj schron..."
               className="me-2"
               aria-label="Search"
+              value={search}
               onChange={(e) => handleChangeInput(e)}
             />
             <Button variant="outline-secondary">Szukaj</Button>
