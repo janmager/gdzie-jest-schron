@@ -45,7 +45,7 @@ export default function NavbarMain() {
               value={search}
               onChange={(e) => handleChangeInput(e)}
             />
-            <Button variant="outline-secondary">Szukaj</Button>
+            <Button variant="outline-secondary" type="submit">Szukaj</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
