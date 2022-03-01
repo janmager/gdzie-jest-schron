@@ -13,10 +13,13 @@ import { Route, Switch, withRouter } from 'react-router-dom'
 
 import ReactGA from 'react-ga';
 
-const TRACKING_ID = process.env.REACT_APP_GA_TRACKING_CODE;
+const TRACKING_ID = 'UA-51521950-21';
 ReactGA.initialize(TRACKING_ID);
 
 function App() {
+  let windowLocation = window.location.pathname;
+  ReactGA.pageview(windowLocation + window.location.search);
+
   let allApp = {
     minHeight: '100vh',
     height: '100%',
