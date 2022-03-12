@@ -59,7 +59,7 @@ export default function Map({shelters, setFilterPeopleCountFrom, setFilterPeople
                             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                         />
                     </MapContainer>
-                    <span className="mt-3">Liczba schronów w bazie danych: {shelters.length}</span>
+                    <span className="mt-3 mb-3">Liczba schronów w bazie danych: {shelters.length}</span>
                 </Col>
             </Row>
         </Container>

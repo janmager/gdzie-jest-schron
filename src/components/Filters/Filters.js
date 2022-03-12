@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react'
 import { Col, Row } from 'react-bootstrap'
 
+import style from './Filters.module.css'
+
 export default function Filters({setFilterPeopleCountFrom, setFilterPeopleCountTo, filterPeopleCountFrom, filterPeopleCountTo}) {
 
     useEffect(() => {
@@ -21,14 +23,14 @@ export default function Filters({setFilterPeopleCountFrom, setFilterPeopleCountT
     return (
         <Col xs={12} className="mt-4">
             <Row>
-                <Col xs={12} md={6} lg={3} className="mb-4">
-                    <input onChange={(e) => handleInputPeopleCountFrom(e)} type="number" placeholder="miejsce od" value={filterPeopleCountFrom && filterPeopleCountFrom} />
+                <Col xs={12} md={6} className={`mb-4 ${style.inputBox}`}>
+                    <span>Miejsca od</span>
+                    <input onChange={(e) => handleInputPeopleCountFrom(e)} type="number" placeholder="np. 150" value={filterPeopleCountFrom && filterPeopleCountFrom} />
                 </Col>
-                <Col xs={12} md={6} lg={3} className="mb-4">
-                    <input onChange={(e) => handleInputPeopleCountTo(e)} type="number" placeholder="miejsce do" value={filterPeopleCountTo && filterPeopleCountTo} />
+                <Col xs={12} md={6} className={`mb-4 ${style.inputBox}`}>
+                    <span>Miejsca do</span>
+                    <input onChange={(e) => handleInputPeopleCountTo(e)} type="number" placeholder="np. 500" value={filterPeopleCountTo && filterPeopleCountTo} />
                 </Col>
-                <Col xs={12} md={6} lg={3} className="mb-4">blok 3</Col>
-                <Col xs={12} md={6} lg={3} className="mb-4">blok 4</Col>
             </Row>
         </Col>
     )
