@@ -27,7 +27,6 @@ function App() {
   const [ filterPeopleCountTo, setFilterPeopleCountTo ] = useState(null)
 
   useEffect(() => {
-    console.log('changed')
     let tempShelters = []
     shelters.map(shelter => {
       if(
